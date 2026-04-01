@@ -279,7 +279,7 @@ const ENGLISH_STYLES = ["KJV", "NIV", "ESV", "NASB", "MSG", "NLT", "NKJV", "VULG
 const ANCIENT_LANGS = ["ARAMAIC", "HEBREW", "GREEK", "LATIN", "GEEZ", "COPTIC", "GOTHIC"];
 
 program
-  .name("biblical-style")
+  .name("biblical-render")
   .description(
     "Transform arbitrary text into Biblical scripture format using various translation styles"
   )
@@ -290,11 +290,11 @@ program
 \x1b[1mBIBLICAL STYLE — Text-to-Scripture Transformer\x1b[0m
 
 \x1b[33mExamples:\x1b[0m
-  $ biblical-style transform "The quick brown fox jumped over the lazy dog"
-  $ biblical-style transform -t NIV "Your text here"
-  $ biblical-style transform -f essay.txt -t MSG -o output.txt
-  $ cat document.txt | biblical-style transform -t GREEK
-  $ biblical-style translations
+  $ biblical-render transform "The quick brown fox jumped over the lazy dog"
+  $ biblical-render transform -t NIV "Your text here"
+  $ biblical-render transform -f essay.txt -t MSG -o output.txt
+  $ cat document.txt | biblical-render transform -t GREEK
+  $ biblical-render translations
 
 \x1b[33mEnglish translation styles:\x1b[0m
   KJV       King James Version (1611) — archaic, majestic       [default]
@@ -341,10 +341,10 @@ program
     "after",
     `
 \x1b[33mExamples:\x1b[0m
-  $ biblical-style transform "Hello world"
-  $ biblical-style transform -t MSG -f essay.txt
-  $ biblical-style transform -t HEBREW "In the beginning" -o hebrew.txt
-  $ echo "some text" | biblical-style transform -t KJV
+  $ biblical-render transform "Hello world"
+  $ biblical-render transform -t MSG -f essay.txt
+  $ biblical-render transform -t HEBREW "In the beginning" -o hebrew.txt
+  $ echo "some text" | biblical-render transform -t KJV
 `
   )
   .action(async (text, options) => {
@@ -418,7 +418,7 @@ program
       console.log(`    \x1b[1m${key.padEnd(10)}\x1b[0m ${TRANSLATIONS[key].name}`);
     }
     console.log(
-      `\n  \x1b[2mUsage: biblical-style transform -t <STYLE> "your text"\x1b[0m\n`
+      `\n  \x1b[2mUsage: biblical-render transform -t <STYLE> "your text"\x1b[0m\n`
     );
   });
 

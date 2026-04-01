@@ -1,4 +1,4 @@
-# biblical-style
+# biblical-render
 
 A CLI tool for transforming arbitrary text into Biblical scripture format across 15 translation styles, including 8 English Bible translations and 7 historical languages with original script output. Powered by Claude Opus 4.6 via the Anthropic API.
 
@@ -10,7 +10,7 @@ This tool performs style transfer from modern prose into the linguistic register
 
 ```bash
 git clone <repo-url>
-cd biblical-style
+cd biblical-render
 npm install
 ```
 

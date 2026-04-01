@@ -1,17 +1,45 @@
 {
-  "name": "biblical-style",
+  "name": "biblical-render",
   "version": "1.0.0",
-  "description": "Transform arbitrary text into Biblical scripture format",
+  "description": "Transform arbitrary text into Biblical scripture format across 15 translation styles, from KJV to Koine Greek",
   "main": "index.js",
   "bin": {
-    "biblical-style": "./index.js"
+    "biblical-render": "./index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "bible",
+    "biblical",
+    "style-transfer",
+    "nlp",
+    "cli",
+    "anthropic",
+    "claude",
+    "kjv",
+    "scripture",
+    "translation",
+    "text-processing"
+  ],
+  "author": "Christian Machine Intelligence",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/christian-machine-intelligence/biblical-render.git"
+  },
+  "homepage": "https://github.com/christian-machine-intelligence/biblical-render",
+  "bugs": {
+    "url": "https://github.com/christian-machine-intelligence/biblical-render/issues"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "Paper.md"
+  ],
   "dependencies": {
     "@anthropic-ai/sdk": "^0.81.0",
     "commander": "^14.0.3",

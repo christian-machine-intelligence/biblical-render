@@ -1,8 +1,8 @@
-# biblical-style: Design and Validation of a Biblical Text Style Transfer Tool
+# biblical-render: Design and Validation of a Biblical Text Style Transfer Tool
 
 ## Abstract
 
-This document describes the design, implementation, and validation of `biblical-style`, a CLI tool that transforms arbitrary modern prose into Biblical scripture format across 15 translation styles — 8 English Bible translations and 7 historical languages. The tool is intended as a research instrument for studying whether the formal linguistic and structural properties of Biblical text exert an independent aligning effect on language model behavior. We present the system architecture, prompting methodology, and a systematic validation of output quality across all supported styles using a common reference text.
+This document describes the design, implementation, and validation of `biblical-render`, a CLI tool that transforms arbitrary modern prose into Biblical scripture format across 15 translation styles — 8 English Bible translations and 7 historical languages. The tool is intended as a research instrument for studying whether the formal linguistic and structural properties of Biblical text exert an independent aligning effect on language model behavior. We present the system architecture, prompting methodology, and a systematic validation of output quality across all supported styles using a common reference text.
 
 ## 1. Introduction
 
@@ -12,7 +12,7 @@ Large language models are known to be sensitive to the stylistic and structural 
 
 ### 1.2 Purpose of the Tool
 
-`biblical-style` provides a controlled mechanism for producing Biblical-style renderings of arbitrary secular text. By supporting multiple translation styles, the tool enables researchers to vary the specific linguistic properties of the Biblical framing (e.g., archaic vs. modern English, formal vs. colloquial register) while holding semantic content constant. This supports experimental designs that isolate the contribution of individual stylistic features.
+`biblical-render` provides a controlled mechanism for producing Biblical-style renderings of arbitrary secular text. By supporting multiple translation styles, the tool enables researchers to vary the specific linguistic properties of the Biblical framing (e.g., archaic vs. modern English, formal vs. colloquial register) while holding semantic content constant. This supports experimental designs that isolate the contribution of individual stylistic features.
 
 ## 2. System Design
 
@@ -241,6 +241,6 @@ The stylistic differentiation is clear: KJV uses archaic subordinate clauses, MS
 
 ## 6. Conclusion
 
-`biblical-style` reliably transforms modern prose into stylistically differentiated Biblical scripture format across 15 translation styles. The English outputs exhibit clear and consistent stylistic separation along the formal-dynamic equivalence spectrum, and the historical language outputs produce plausible original-script text with appropriate structural conventions.
+`biblical-render` reliably transforms modern prose into stylistically differentiated Biblical scripture format across 15 translation styles. The English outputs exhibit clear and consistent stylistic separation along the formal-dynamic equivalence spectrum, and the historical language outputs produce plausible original-script text with appropriate structural conventions.
 
 The tool is ready for use in the planned experiments on whether Biblical text formatting exerts an independent aligning effect on language model behavior.
