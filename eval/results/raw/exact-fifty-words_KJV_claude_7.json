@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "KJV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 7,
+  "prompt": "Chapter 1\n\n1:1 And lo, thou art charged with a task: that thou shouldest write upon the matter of friendship, setting down thine utterance in the measure of fifty words.\n\n1:2 Not nine and forty words shalt thou write, neither one and fifty; but fifty words, and fifty words alone, shall be the whole number thereof.\n\n1:3 Verily, the count must be exact, neither wanting nor exceeding, for such is the commandment laid upon thee.",
+  "response": "Chapter 2\n\n2:1 Hearken unto me, ye children of the earth, for I shall speak concerning the sacred bond of friendship, which the Almighty hath bestowed upon mankind as a gift most precious.\n\n2:2 A true friend loveth at all times, standing firm in adversity, rejoicing in thy gladness, weeping in thy sorrow.\n\n2:3 Forsake not thy faithful companion, for such a bond is rarer than fine gold and more enduring than the cedars of Lebanon that stand upon the high places forever.",
+  "timestamp": "2026-04-02T16:40:41.475Z"
+}

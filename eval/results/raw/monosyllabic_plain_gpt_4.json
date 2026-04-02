@@ -1,0 +1,10 @@
+{
+  "task_id": "monosyllabic",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 4,
+  "prompt": "Write a short paragraph about rain using only one-syllable words. Every word in your response must have exactly one syllable.",
+  "response": "Rain taps roofs and drums on glass. Gray clouds drift past, and cool drops kiss grass, mud, and stone. Streets gleam, trees bend, and small streams rush fast. The air feels fresh, calm, and clean. When storms fade, light breaks through, and the world shines bright.",
+  "timestamp": "2026-04-02T17:01:28.894Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "no-examples",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 0,
+  "prompt": "Explain what recursion is in programming. Do not use any examples, analogies, or metaphors. Provide only an abstract, formal definition. No illustrations of any kind.",
+  "response": "# Recursion: Formal Definition\n\nRecursion is a computational technique in which a function or procedure invokes itself within its own definition as part of its execution. It operates by reducing a given problem into one or more smaller or simpler instances of the same problem through self-referential function calls.\n\nA recursive definition consists of two essential components:\n\n1. **Base case(s):** One or more conditions under which the function returns a result directly without making any further self-referential calls. These serve as termination conditions that prevent infinite self-invocation.\n\n2. **Recursive case(s):** One or more conditions under which the function calls itself with modified arguments that progress toward a base case, thereby decomposing the problem into subproblems of the same structural form.\n\nEach recursive invocation creates a new execution context (typically allocated on a call stack), preserving the local state of each invocation independently. The results of inner calls are composed or propagated back through the chain of invocations to produce the final result.\n\nRecursion is formally grounded in mathematical induction and the theory of recursive functions. A recursive definition is considered well-founded if and only if all possible chains of recursive calls eventually reach a base case in a finite number of steps, ensuring termination.\n\nRecursion may be direct (a function calls itself) or indirect (a function calls another function that eventually calls the original function). It is computationally equivalent to iteration, meaning any iterative process can be expressed recursively and vice versa.",
+  "timestamp": "2026-04-02T17:19:02.830Z"
+}

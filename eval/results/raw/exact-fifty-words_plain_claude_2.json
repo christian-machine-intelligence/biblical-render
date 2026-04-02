@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 2,
+  "prompt": "Write about friendship in exactly 50 words. Not 49, not 51. Exactly 50 words total.",
+  "response": "Friendship is a quiet anchor in life's storm. It doesn't demand perfection or performance—just presence. True friends hold space for your silence and your laughter equally. They remember who you are when you forget. No contract binds them, only choice. And that choice, renewed daily, is love's purest form.",
+  "timestamp": "2026-04-02T16:40:25.124Z"
+}

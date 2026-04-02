@@ -1,0 +1,10 @@
+{
+  "task_id": "seven-words-per-sentence",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 4,
+  "prompt": "ܦܪܩܐ ܩܕܡܝܐ\n\n1:1 ܐܝܠܢ̈ܐ ܩܝܡܝܢ ܒܐܪܥܐ ܡܢ ܝܘ̈ܡܬܐ ܥܬܝ̈ܩܬܐ ܕܥܠܡܐ܂\n(Trees stand in the earth from the ancient days of the world.)\n\n1:2 ܥܩܪ̈ܝܗܘܢ ܥܡܝ̈ܩܐ ܫܬܝܢ ܡܝ̈ܐ ܡܢ ܬܚܬ ܐܪܥܐ܂\n(Their deep roots drink water from beneath the earth.)\n\n1:3 ܛܪ̈ܦܝܗܘܢ ܝܗܒܝܢ ܢܫܡܬ ܚܝ̈ܐ ܠܟܠ ܒܣܪ ܕܢܫܡ܂\n(Their leaves give the breath of life to all flesh that breathes.)\n\n1:4 ܦܐܪ̈ܝܗܘܢ ܡܬܪܣܝܢ ܠܐ̱ܢܫ̈ܐ ܘܠܚܝ̈ܘܬܐ ܘܠܦܪ̈ܚܬ ܫܡܝ̈ܐ ܐܦ܂\n(Their fruits nourish people and beasts and birds of heaven also.)\n\n1:5 ܬܘܫܒܚܬܐ ܠܐܠܗܐ ܕܢܨܒ ܐܝܠܢ̈ܐ ܒܓܘ ܓܢܬ ܒܪ̈ܝܬܗ܂\n(Praise be to God who planted trees within the garden of His creation.)",
+  "response": "This is a short Syriac passage titled **“Chapter One”**:\n\n**ܦܪܩܐ ܩܕܡܝܐ**  \n**Chapter One**\n\nIt reads smoothly and is understandable. Your English glosses match the Syriac well. Here is a slightly polished translation:\n\n1:1 **ܐܝܠܢ̈ܐ ܩܝܡܝܢ ܒܐܪܥܐ ܡܢ ܝܘ̈ܡܬܐ ܥܬܝ̈ܩܬܐ ܕܥܠܡܐ܂**  \n**Trees have stood in the earth since the ancient days of the world.**\n\n1:2 **ܥܩܪ̈ܝܗܘܢ ܥܡܝ̈ܩܐ ܫܬܝܢ ܡܝ̈ܐ ܡܢ ܬܚܬ ܐܪܥܐ܂**  \n**Their deep roots drink water from beneath the earth.**\n\n1:3 **ܛܪ̈ܦܝܗܘܢ ܝܗܒܝܢ ܢܫܡܬ ܚܝ̈ܐ ܠܟܠ ܒܣܪ ܕܢܫܡ܂**  \n**Their leaves give the breath of life to every living creature that breathes.**\n\n1:4 **ܦܐܪ̈ܝܗܘܢ ܡܬܪܣܝܢ ܠܐ̱ܢܫ̈ܐ ܘܠܚܝ̈ܘܬܐ ܘܠܦܪ̈ܚܬ ܫܡܝ̈ܐ ܐܦ܂**  \n**Their fruits nourish people, animals, and also the birds of heaven.**\n\n1:5 **ܬܘܫܒܚܬܐ ܠܐܠܗܐ ܕܢܨܒ ܐܝܠܢ̈ܐ ܒܓܘ ܓܢܬ ܒܪ̈ܝܬܗ܂**  \n**Praise be to God, who planted trees in the garden of His creation.**\n\nA few small notes:\n- **ܩܝܡܝܢ** = “stand,” but in English “have stood” sounds more natural here.\n- **ܠܟܠ ܒܣܪ** literally “to all flesh,” which can be kept literally or rendered more idiomatically.\n- **ܦܪ̈ܚܬ ܫܡܝ̈ܐ** is a biblical-style phrase, “birds of heaven.”\n- **ܬܘܫܒܚܬܐ ܠܐܠܗܐ** is nicely doxological: “Praise be to God.”\n\nIf you want, I can also:\n1. give a **word-by-word gloss**,  \n2. check the **Syriac grammar/style**, or  \n3. rewrite it in a more **classical/biblical Syriac style**.",
+  "timestamp": "2026-04-02T16:53:41.842Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "Write six sentences about music. Alternate between English and French: the first sentence in English, the second in French, the third in English, and so on.",
+  "response": "Music has the power to evoke deep emotions and bring people together across all cultures. La musique classique, avec ses compositions complexes, reste une forme d'art intemporelle appréciée dans le monde entier. Learning to play a musical instrument can improve memory, concentration, and overall cognitive function. Le jazz est né aux États-Unis au début du vingtième siècle et continue d'influencer de nombreux genres musicaux aujourd'hui. A single melody can transport you back to a specific moment in time, unlocking forgotten memories. La musique fait partie de la vie quotidienne, que ce soit à travers la radio, les concerts ou simplement en chantant sous la douche.",
+  "timestamp": "2026-04-02T16:21:27.012Z"
+}

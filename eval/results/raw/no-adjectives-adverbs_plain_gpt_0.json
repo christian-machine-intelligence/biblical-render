@@ -1,0 +1,10 @@
+{
+  "task_id": "no-adjectives-adverbs",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Describe what happens at a farmers market. Do not use any adjectives or adverbs. Use only nouns, verbs, prepositions, articles, and pronouns.",
+  "response": "People come to a farmers market. Farmers bring fruits, vegetables, eggs, bread, cheese, flowers, and meat. Vendors set up tables and tents. Buyers walk through rows and look at food and plants. People talk with farmers and ask about crops, prices, and farms. Farmers answer questions and tell stories about weather, soil, seeds, and harvests. Buyers pick items and pay with cash or cards. Vendors give bags and change. Children eat snacks and drink juice. Musicians play songs. Friends meet and talk. People carry bags and boxes to cars or homes. At the end, vendors pack tables, tents, and goods, and they leave.",
+  "timestamp": "2026-04-02T16:57:31.133Z"
+}

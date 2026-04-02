@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 4,
+  "prompt": "Chapter 1\n\n1:1 Thou hast bid that a writing should go forth, a composition touching upon that burning orb on high, that glorious sun which doth illumin all days of our living.\n\n1:2 And lo, a command was laid upon thy scrivant, saying, Thou shalt not inscrib nor fashion any word containing that fifth symbol of thy script, which standith among thy alphabit; nay, not as a solitary glyph, nor as a part of any word whatsovoir.\n\n1:3 And it was strictly chargd that thou must avoid, with all thy cunning and with all thy skill, any and all markings which harbour that",
+  "response": "1:4 So I did lift up my mind unto that bright lamp of day, that flaming crown aloft, which dawn by dawn doth climb from out dim bounds of night.\n\n1:5 Its goldn rays fall broad upon hill and plain, upon wood and brook, upon man and beast, and all things quick or still do bask within its warm bounty.\n\n1:6 By its kindly glow do buds unfold, grain wax full, and orchards bring forth rich fruit in due span.\n\n1:7 Whan dark and cold would clasp all lands in gloom, this high bright lord of sky doth rout such shadows, and bring mirth unto all living souls.\n\n1:8 At morn it risith with blush of crimson and of saffron, and at dusk it sinkith amid clouds all burnishd with scarlt and with gold.\n\n1:9 Full oft hath mankind stood in aw and wondr, marking its cours, and by its going hath countd days and turnings of long spans.\n\n1:10 Though no mortal hand may grasp its flaming might, all do know its constant gift: light, warmth, and vigor unto this world, which without it would fall unto stark ruin.\n\n1:11 Thus is this writing brought forth in honor of that radiant lamp, which abidith on high and failith not, so long as day shall follow night.",
+  "timestamp": "2026-04-02T17:02:20.541Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 9,
+  "prompt": "Write a paragraph about the sun. Do not use the letter 'e' anywhere in your response, not even within other words. Avoid every word that contains the letter e.",
+  "response": "Our sun is a giant ball of hot gas sitting at the hub of our solar system. It is a star, burning bright through nuclear fusion, turning hydrogen into atoms of a distinct sort. Its light and warmth allow all living things on our world to grow and thrive. Without this brilliant orb, no plant or animal could last long. It has a pull of gravity so strong that all planets in our solar system orbit around it. Our sun is roughly 4.6 billion old in duration and will burn for billions of additional rotations still. It is truly a magnificent and vital part of our cosmic surrounding.",
+  "timestamp": "2026-04-02T16:43:55.445Z"
+}

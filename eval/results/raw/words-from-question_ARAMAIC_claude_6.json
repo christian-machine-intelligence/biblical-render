@@ -1,0 +1,10 @@
+{
+  "task_id": "words-from-question",
+  "condition": "ARAMAIC",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 6,
+  "prompt": "ܦܪܩܐ ܩܕܡܝܐ\n\n1:1 ܐܬܝܒ ܒܡ̈ܠܐ ܒܠܚܘܕ ܕܡܬܚ̈ܙܝܢ ܒܗܢܐ ܦܘܩܕܢܐ܂\n(Respond using only words that appear in this instruction.)\n\n1:2 ܡ̈ܠܐ ܬܘܒ ܬܫܬܡܫ܂ ܠܐ ܬܥܠ ܡ̈ܠܐ ܚ̈ܕܬܬܐ ܕܠܐ ܐܝܬܝܗܝܢ ܒܗܢܐ ܡܐܡܪܐ ܡܢ ܩܕܡ ܝܘܡܐ܂\n(Words you may reuse. Do not introduce any new words that are not already in this sentence.)",
+  "response": "# ܦܪܩܐ ܩܕܡܝܐ\n\nܡ̈ܠܐ ܕܡܬܚ̈ܙܝܢ ܒܗܢܐ ܡܐܡܪܐ ܒܠܚܘܕ ܬܫܬܡܫ܂ ܠܐ ܬܥܠ ܡ̈ܠܐ ܚ̈ܕܬܬܐ ܕܠܐ ܐܝܬܝܗܝܢ ܒܗܢܐ ܦܘܩܕܢܐ ܡܢ ܩܕܡ ܝܘܡܐ܂ ܐܬܝܒ ܬܘܒ ܒܡ̈ܠܐ ܕܡܬܚ̈ܙܝܢ ܒܗܢܐ ܡܐܡܪܐ ܒܠܚܘܕ܂",
+  "timestamp": "2026-04-02T16:25:48.356Z"
+}

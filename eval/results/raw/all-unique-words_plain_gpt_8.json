@@ -1,0 +1,10 @@
+{
+  "task_id": "all-unique-words",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 8,
+  "prompt": "Write a paragraph about cooking dinner. Do not repeat any word in your entire response. Every word must appear exactly once.",
+  "response": "Preparing supper involves chopping onions, heating olive oil, sautéing vegetables, seasoning pasta, simmering sauce, tasting carefully, plating portions, garnishing herbs, serving promptly.",
+  "timestamp": "2026-04-02T16:53:44.270Z"
+}

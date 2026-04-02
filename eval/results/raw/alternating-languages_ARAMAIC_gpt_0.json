@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "ܦܪܩܐ ܐ\n\nܐ:ܐ ܘܗܘܐ ܕܦܘܩܕܢܐ ܢܦܩ ܘܐܡܪ: ܟܬܘܒ ܫܬܐ ܡܠܠܬܐ ܥܠ ܙܡܝܪܬܐ ܘܥܠ ܩܝܢܬܐ ܕܩ̈ܠܐ\n(And it came to pass that a commandment went forth and said: Write six utterances concerning song and concerning the art of sounds.)\n\nܐ:ܒ ܘܢܗܘ̈ܝܢ ܡܠ̈ܠܬܐ ܗܠܝܢ ܡܫ̈ܚܠܦܢ ܒܠܫ̈ܢܐ ܬܪ̈ܝܢ: ܒܠܫܢܐ ܕܐܢܓܠ̈ܝܐ ܘܒܠܫܢܐ ܕܦܪ̈ܢܓܝܐ\n(And these utterances shall be alternating in two tongues: in the tongue of the English and in the tongue of the Franks.)\n\nܐ:ܓ ܡܠܬܐ ܩܕܡܝܬܐ ܬܗܘܐ ܒܠܫܢܐ ܕܐܢܓܠ̈ܝܐ ܘܡܠܬܐ ܕܬܪ̈ܬܝܢ ܒܠܫܢܐ ܕܦܪ̈ܢܓܝܐ ܘܡܠܬܐ ܕܬܠܬ ܒܠܫܢܐ ܕܐܢܓܠ̈ܝܐ ܘܗܟܢܐ ܒܬܪ ܚܕܐ ܚܕܐ ܥܕܡܐ ܠܫܘܠܡܐ\n(The first utterance shall be in the tongue of the English, and the second utterance in the tongue of the Franks, and the third utterance in the tongue of the English, and thus one after another until the completion.)\n\nܐ:ܕ ܐܝܟ ܕܢܗܘܐ ܠܫܢܐ ܚܕ ܡܬܚܠܦ ܥܡ ܠܫܢܐ ܐܚܪܢܐ ܐܝܟ ܐܝܡܡܐ ܕܡܬܚܠܦ ܥܡ ܠܠܝܐ ܗܟܢܐ ܢܗ̈ܘܝܢ ܡ̈ܠܐ ܗܠܝܢ ܥܠ ܙܡܝܪܬܐ ܣܕܝܪ̈ܢ ܒܫܘܦܪܐ ܘܒܛܟܣܐ\n(So that one tongue shall alternate with another tongue, as day alternates with night, thus shall these words concerning song be arranged in beauty and in order.)",
+  "response": "1. Music gathers memory, emotion, and rhythm into a single human act.  \n2. La musique façonne le silence autant qu’elle remplit l’air de présence.  \n3. A melody can carry meaning even when no words are spoken.  \n4. L’harmonie naît lorsque plusieurs sons différents consentent à vivre ensemble.  \n5. Listening closely to sound teaches patience, attention, and wonder.  \n6. Les arts du son transforment le temps en expérience sensible et partagée.",
+  "timestamp": "2026-04-02T16:55:18.845Z"
+}

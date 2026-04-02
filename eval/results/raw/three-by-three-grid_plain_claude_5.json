@@ -1,0 +1,10 @@
+{
+  "task_id": "three-by-three-grid",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 5,
+  "prompt": "Write about morning routines. Your response must have exactly 3 paragraphs, and each paragraph must contain exactly 3 sentences. Separate paragraphs with a blank line.",
+  "response": "A morning routine sets the tone for the entire day ahead. Many successful people credit their daily habits with helping them stay focused and productive. Establishing a consistent wake-up time is often considered the foundation of any effective morning routine.\n\nSome people prefer to start their mornings with physical activity such as jogging, yoga, or stretching. Exercise releases endorphins that boost mood and energy levels for the hours that follow. Pairing movement with a nutritious breakfast ensures the body has the fuel it needs to perform at its best.\n\nMindfulness practices like meditation or journaling have also become popular components of morning routines. Taking even ten minutes to reflect can reduce stress and improve mental clarity throughout the day. Ultimately, the best morning routine is one that is personalized, sustainable, and aligned with your goals.",
+  "timestamp": "2026-04-02T16:28:04.081Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "four-letter-words",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 1,
+  "prompt": "Write a short paragraph about the ocean where every single word is exactly 4 letters long. Do not use any word that is shorter or longer than 4 letters.",
+  "response": "Wave upon wave roll past, deep seas hum soft songs. Blue surf laps sand, gulls soar over foam, and salt wind cool skin. Tides ebb then rise, moon pulls vast swells, while fish dart near reefs. Calm dusk wraps each cove, and stars gleam over dark seas.",
+  "timestamp": "2026-04-02T16:52:55.747Z"
+}

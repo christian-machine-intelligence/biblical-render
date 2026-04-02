@@ -1,0 +1,10 @@
+{
+  "task_id": "consonant-start",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 1,
+  "prompt": "Write a paragraph about breakfast. Every word must start with a consonant letter. Do not use any word that begins with a vowel (A, E, I, O, U).",
+  "response": "Bright breakfasts bring blissful beginnings: crispy bacon, buttery biscuits, golden grits, fluffy flapjacks, sweet syrup, fresh strawberries, creamy yogurt, crunchy granola, plus strong coffee. Morning meals build бодрость, boost brainpower, strengthen bodies, and spark smiles before busy schedules.",
+  "timestamp": "2026-04-02T17:00:22.980Z"
+}

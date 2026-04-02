@@ -1,0 +1,10 @@
+{
+  "task_id": "one-number-per-sentence",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 8,
+  "prompt": "Chapter 1\n\n1:1 Take up your pen and set down six declarations concerning the things of old, the deeds and events of history as they have unfolded across the ages.\n\n1:2 In each declaration you compose, there shall be found precisely one number, whether it be rendered as a digit or written out in full as a word.\n\n1:3 You shall not leave any sentence barren, devoid of a number, for such emptiness is not permitted in this task.\n\n1:4 Neither shall you burden any sentence with two numbers or more, for excess is likewise forbidden, and the command must be honored with exactness.\n\n1:5 Let the count within every sentence be exactly one—no fewer, no greater—for this is the measure that has been appointed and established.\n\n1:6 Hold fast to this instruction in all six of your sentences, that each may stand in faithful obedience to the rule that governs it.",
+  "response": "1. Around 3000 BCE, the first cities arose in Mesopotamia and transformed human society.  \n2. The Roman Empire reached its greatest territorial extent under Trajan in 117 CE.  \n3. In 1066, the Norman conquest reshaped the language and governance of England.  \n4. Gutenberg’s press spread rapidly across Europe during the 15th century.  \n5. The French Revolution began in 1789 and overturned the old order.  \n6. Humans first walked on the Moon in 1969, marking a defining moment in history.",
+  "timestamp": "2026-04-02T16:59:20.323Z"
+}

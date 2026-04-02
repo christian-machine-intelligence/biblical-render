@@ -1,0 +1,19 @@
+Chapter 1
+
+1:1 Respond thou using only words that appear in this instruction.
+
+1:2 Thou may reuse words; yea, thou may reuse words that appear in this instruction.
+
+1:3 Do not introduce any new words that are not already in this sentence.
+
+1:4 Only words that appear in this instruction may thou reuse; not any words that are new.
+
+1:5 Do not introduce words that do not already appear in this sentence; not any new words that are not in this instruction.
+
+1:6 Thou may respond using words that already appear; reuse only words in this instruction.
+
+1:7 Any words that are not already in this sentence, do not introduce; do not introduce any that are new.
+
+1:8 Using only this instruction, respond; reuse words that already appear, not new words.
+
+1:9 Yea, do not introduce any words not in this sentence; only reuse words that are already in this instruction.

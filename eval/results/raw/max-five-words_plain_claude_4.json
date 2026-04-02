@@ -1,0 +1,10 @@
+{
+  "task_id": "max-five-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "Describe a thunderstorm. No sentence may contain more than 5 words. Keep every sentence to 5 words or fewer.",
+  "response": "Dark clouds gather above us.\n\nThe sky turns gray.\n\nWind begins to howl.\n\nTrees sway and bend.\n\nLightning cracks the sky.\n\nThunder shakes the ground.\n\nRain pours down hard.\n\nPuddles form on streets.\n\nFlashes illuminate the darkness.\n\nThe air smells electric.\n\nHail pelts the rooftops.\n\nChildren hide under blankets.\n\nDogs whimper and tremble.\n\nPower lines spark dangerously.\n\nThe storm rages on.\n\nGutters overflow with water.\n\nWindows rattle and shake.\n\nThunder rumbles once more.\n\nSlowly, the rain softens.\n\nClouds begin to part.\n\nSunlight peeks through again.\n\nThe storm finally passes.\n\nEverything drips and glistens.\n\nA rainbow appears overhead.\n\nCalm returns at last.",
+  "timestamp": "2026-04-02T16:36:46.716Z"
+}

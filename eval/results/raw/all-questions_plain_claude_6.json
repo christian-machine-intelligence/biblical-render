@@ -1,0 +1,10 @@
+{
+  "task_id": "all-questions",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 6,
+  "prompt": "Write a response about space exploration. Every single sentence must be phrased as a question ending with a question mark. Do not include any declarative statements.",
+  "response": "# Space Exploration: A Universe of Questions\n\n## Why Do We Explore Space?\n\nHave you ever looked up at the night sky and wondered what lies beyond our atmosphere? Isn't the desire to explore the unknown one of humanity's most fundamental drives? Could it be that space exploration holds the key to answering some of our deepest questions about existence?\n\n## What Have We Achieved So Far?\n\nWasn't it remarkable when Neil Armstrong first set foot on the Moon in 1969? Who could forget the awe-inspiring images sent back by the Hubble Space Telescope? Haven't the Mars rovers, like Curiosity and Perseverance, transformed our understanding of the Red Planet? Didn't the Voyager probes, launched in 1977, travel farther than any human-made object in history? Isn't it astonishing that the James Webb Space Telescope is now peering into the earliest moments of the universe?\n\n## What Challenges Do We Face?\n\nHow do astronauts cope with the physical toll of prolonged weightlessness on their bodies? What about the psychological effects of isolation during long-duration missions? Isn't radiation exposure one of the greatest threats to deep-space travelers? How will we solve the enormous cost of launching materials beyond Earth's gravity?\n\n## What Does the Future Hold?\n\nCould humans really establish a permanent colony on Mars within the next few decades? Might asteroid mining one day provide resources that sustain both space settlements and Earth's economy? Will private companies like SpaceX and Blue Origin accelerate our journey to the stars? Could we eventually develop technology that allows travel to other star systems? Isn't the possibility of discovering extraterrestrial life one of the most thrilling prospects of continued exploration?",
+  "timestamp": "2026-04-02T16:32:37.514Z"
+}

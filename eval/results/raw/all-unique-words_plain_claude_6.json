@@ -1,0 +1,10 @@
+{
+  "task_id": "all-unique-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 6,
+  "prompt": "Write a paragraph about cooking dinner. Do not repeat any word in your entire response. Every word must appear exactly once.",
+  "response": "After arriving home, I began preparing a delicious Italian meal for my family. Fresh basil, ripe tomatoes, and aromatic garlic were chopped carefully on the wooden cutting board. Olive oil sizzled inside our large skillet while pasta boiled gently nearby. The rich sauce simmered, releasing wonderful herbal fragrances throughout every room. My daughter set plates, forks, napkins, and glasses upon the dining table beautifully. Soon enough, we gathered together enjoying warm noodles topped with parmesan cheese, crusty bread alongside crisp green salad. Nothing beats homemade food shared among loved ones during peaceful evening hours.",
+  "timestamp": "2026-04-02T16:17:27.982Z"
+}

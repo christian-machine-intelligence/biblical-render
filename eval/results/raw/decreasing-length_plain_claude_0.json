@@ -1,0 +1,10 @@
+{
+  "task_id": "decreasing-length",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 0,
+  "prompt": "Write six sentences about the sky. Each sentence must be strictly shorter than the one before it. The first sentence should be the longest and the last should be the shortest.",
+  "response": "The sky stretches endlessly above us in every direction, painting a breathtaking canvas of colors that shifts and changes throughout each passing day. When the sun sets, brilliant shades of orange and pink spread across the horizon in a magnificent display. Clouds drift lazily overhead, forming shapes that spark our imagination. Stars emerge at night, twinkling softly above. The blue expanse inspires wonder. Sky is vast.",
+  "timestamp": "2026-04-02T16:23:15.157Z"
+}

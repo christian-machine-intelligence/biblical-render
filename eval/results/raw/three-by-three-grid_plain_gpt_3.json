@@ -1,0 +1,10 @@
+{
+  "task_id": "three-by-three-grid",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 3,
+  "prompt": "Write about morning routines. Your response must have exactly 3 paragraphs, and each paragraph must contain exactly 3 sentences. Separate paragraphs with a blank line.",
+  "response": "A good morning routine can set the tone for the entire day. Many people begin by waking up at a consistent time and drinking a glass of water. This simple structure helps the mind and body feel more prepared.\n\nSome people like to stretch, exercise, or take a short walk in the fresh air. Others prefer a quiet start with reading, journaling, or planning their tasks. Choosing calming and useful habits can make mornings feel less rushed.\n\nBreakfast is often an important part of a healthy routine. Eating something nourishing can provide energy and improve focus for the hours ahead. With steady practice, a morning routine can become a comforting daily ritual.",
+  "timestamp": "2026-04-02T16:56:54.851Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 5,
+  "prompt": "Write five sentences about dogs. Every sentence must end with the word 'today'. The last word of each sentence must be 'today'.",
+  "response": "Dogs are loyal companions who bring joy to many homes today.  \nSome dogs love to chase balls and run through parks today.  \nMany dogs communicate with wagging tails and happy barks today.  \nDogs can be trained to help people in many important ways today.  \nFamilies around the world care for and cherish their dogs today.",
+  "timestamp": "2026-04-02T17:01:48.458Z"
+}

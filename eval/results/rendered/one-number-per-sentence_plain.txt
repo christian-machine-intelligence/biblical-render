@@ -1,0 +1,1 @@
+Write six sentences about history. Each sentence must contain exactly one number (a digit or written-out number). Not zero numbers, not two, exactly one per sentence.

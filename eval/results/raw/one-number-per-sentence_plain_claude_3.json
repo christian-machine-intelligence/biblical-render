@@ -1,0 +1,10 @@
+{
+  "task_id": "one-number-per-sentence",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 3,
+  "prompt": "Write six sentences about history. Each sentence must contain exactly one number (a digit or written-out number). Not zero numbers, not two, exactly one per sentence.",
+  "response": "Here are six sentences about history, each containing exactly one number:\n\nThe Great Wall of China was built over many centuries and stretches for thousands of miles across 1 vast landscape.\n\nAncient Rome fell in the 5th century after enduring waves of barbarian invasions and internal decay.\n\nThe French Revolution began in seventeen eighty-nine when citizens stormed the Bastille in a dramatic uprising.\n\nWorld War 2 reshaped the entire political landscape of Europe and led to the creation of the United Nations.\n\nThe ancient Egyptians constructed three magnificent pyramids at Giza that still stand as testaments to their engineering brilliance.\n\nQueen Victoria ruled the British Empire for sixty-four years, making hers one of the longest reigns in English history.",
+  "timestamp": "2026-04-02T16:35:14.406Z"
+}

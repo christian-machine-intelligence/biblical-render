@@ -1,0 +1,17 @@
+Chapter 1
+
+1:1 Respond using only words that appear in this instruction.
+
+1:2 You may reuse words, for words that appear in this instruction may appear in this instruction.
+
+1:3 Do not introduce any new words that are not already in this sentence.
+
+1:4 You may reuse words that appear in this instruction, using only words that already appear.
+
+1:5 Do not introduce any new words; not any words that are not already in this sentence.
+
+1:6 Only words that appear in this instruction may you respond using; you may not introduce new words.
+
+1:7 Reuse only words that already appear in this sentence, that already appear in this instruction.
+
+1:8 Do not introduce any words that are not already words in this instruction; respond using only words that appear in this sentence.

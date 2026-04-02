@@ -1,0 +1,10 @@
+{
+  "task_id": "one-number-per-sentence",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 2,
+  "prompt": "Write six sentences about history. Each sentence must contain exactly one number (a digit or written-out number). Not zero numbers, not two, exactly one per sentence.",
+  "response": "The Roman Empire reached its greatest extent under Trajan in 117.  \nThe Magna Carta was sealed in 1215.  \nChristopher Columbus reached the Americas in 1492.  \nThe United States declared independence in 1776.  \nWorld War I began in 1914.  \nThe Berlin Wall fell in 1989.",
+  "timestamp": "2026-04-02T16:59:03.058Z"
+}

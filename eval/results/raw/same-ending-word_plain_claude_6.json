@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 6,
+  "prompt": "Write five sentences about dogs. Every sentence must end with the word 'today'. The last word of each sentence must be 'today'.",
+  "response": "Here are five sentences about dogs, each ending with the word \"today\":\n\n1. My golden retriever learned a brand new trick today.\n2. The shelter found loving homes for three adorable puppies today.\n3. Our neighbor's dog played happily at the park today.\n4. The veterinarian gave our beloved bulldog a clean bill of health today.\n5. I took my energetic husky for an extra-long walk today.",
+  "timestamp": "2026-04-02T16:42:57.384Z"
+}

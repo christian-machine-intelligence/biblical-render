@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 1,
+  "prompt": "Chapter 1\n\n1:1 Music is one of the greatest gifts bestowed upon humanity, for it has the power to stir the soul and move the heart beyond all measure.\n\n1:2 La musique est un langage universel qui transcende toutes les frontières et unit les peuples de la terre entière dans une même harmonie.\n\n1:3 From the earliest days of creation, rhythm and melody have been woven into the very fabric of human life, accompanying every season of joy and every hour of sorrow.\n\n1:4 Les instruments de musique, qu'ils soient à cordes, à vent ou à percussion, produisent des sons magnifiques qui élèvent l'esprit et apaisent les cœurs troublés.\n\n1:5 Those who sing and those who play instruments declare the beauty of existence, for through music the deepest emotions of the human spirit find their truest expression.\n\n1:6 La musique possède le pouvoir remarquable de guérir les blessures de l'âme, de raviver l'espérance dans les moments les plus sombres, et de remplir de lumière même les lieux les plus désolés.",
+  "response": "Chapter 1 received.\n\nThis chapter alternates between English and French and centers on the beauty, universality, and emotional power of music. It has a poetic, elevated tone.\n\nIf you want, I can help with any of the following:\n- translate the French lines into English\n- translate the English lines into French\n- unify the whole chapter into one language\n- proofread for style and consistency\n- continue in the same tone for Chapter 2\n- format it like scripture, prose, or a bilingual edition",
+  "timestamp": "2026-04-02T16:55:10.864Z"
+}

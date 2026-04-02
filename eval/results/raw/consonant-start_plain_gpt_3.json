@@ -1,0 +1,10 @@
+{
+  "task_id": "consonant-start",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 3,
+  "prompt": "Write a paragraph about breakfast. Every word must start with a consonant letter. Do not use any word that begins with a vowel (A, E, I, O, U).",
+  "response": "Breakfast brings bright comfort: crispy bacon, buttery biscuits, golden grits, fluffy pancakes, smoky sausage, sweet syrup, fresh strawberries, crunchy granola, creamy yogurt, and strong coffee create splendid morning satisfaction.",
+  "timestamp": "2026-04-02T17:00:23.454Z"
+}

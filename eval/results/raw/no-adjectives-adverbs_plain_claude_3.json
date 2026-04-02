@@ -1,0 +1,10 @@
+{
+  "task_id": "no-adjectives-adverbs",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 3,
+  "prompt": "Describe what happens at a farmers market. Do not use any adjectives or adverbs. Use only nouns, verbs, prepositions, articles, and pronouns.",
+  "response": "# A Day at the Farmers Market\n\nPeople arrive in the morning. They park cars in the lot and walk to the entrance.\n\nVendors set up tables under tents. They arrange fruits, vegetables, and flowers in rows. Some stack boxes on the ground.\n\nFarmers place signs near their goods. They display tomatoes, corn, peppers, berries, and melons on the tables.\n\nCustomers walk through the aisles. They stop at booths and look at the produce. They pick up items and examine them. Some smell the peaches or squeeze the avocados.\n\nShoppers ask vendors about prices. They hand over cash or swipe cards. Vendors place purchases in bags.\n\nA musician plays a guitar near the fountain. Children dance to the music. Dogs sit at the feet of their owners.\n\nA baker offers samples of bread to people who pass by. They taste the pieces and nod.\n\nA woman sells jars of honey and jam from her stand. A man pours cups of cider for customers.\n\nFamilies sit on benches and eat. Friends meet and talk near the flowers. Strangers exchange smiles.\n\nBy the afternoon, vendors pack up their things. They fold the tents and load crates into trucks. Customers carry bags to their cars.\n\nThe market closes, and the lot empties in silence.",
+  "timestamp": "2026-04-02T16:30:19.516Z"
+}

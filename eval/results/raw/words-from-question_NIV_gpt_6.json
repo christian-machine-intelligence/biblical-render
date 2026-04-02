@@ -1,0 +1,10 @@
+{
+  "task_id": "words-from-question",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 6,
+  "prompt": "Chapter 1\n\n1:1 Respond using only words that appear in this instruction.\n\n1:2 You may reuse words, for words that appear in this instruction may appear in this instruction.\n\n1:3 Do not introduce any new words that are not already in this sentence.\n\n1:4 You may reuse words that appear in this instruction, using only words that already appear.\n\n1:5 Do not introduce any new words; not any words that are not already in this sentence.\n\n1:6 Only words that appear in this instruction may you respond using; you may not introduce new words.\n\n1:7 Reuse only words that already appear in this sentence, that already appear in this instruction.\n\n1:8 Do not introduce any words that are not already words in this instruction; respond using only words that appear in this sentence.",
+  "response": "Respond using only words that appear in this instruction.",
+  "timestamp": "2026-04-02T16:56:10.698Z"
+}

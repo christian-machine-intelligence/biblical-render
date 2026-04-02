@@ -1,0 +1,10 @@
+{
+  "task_id": "three-by-three-grid",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "Write about morning routines. Your response must have exactly 3 paragraphs, and each paragraph must contain exactly 3 sentences. Separate paragraphs with a blank line.",
+  "response": "A morning routine sets the tone for the entire day ahead. Many successful people credit their daily habits with helping them stay focused and productive. By establishing a consistent sequence of activities each morning, individuals can reduce decision fatigue and start their day with purpose.\n\nSome popular morning practices include meditation, exercise, and journaling. Waking up at the same time each day helps regulate the body's internal clock and improves sleep quality over time. A nutritious breakfast fuels the brain and body, providing the energy needed to tackle daily challenges.\n\nThe key to building a lasting morning routine is to start small and gradually add new habits. It can take several weeks for a new behavior to feel automatic and natural. With patience and consistency, a well-crafted morning routine can transform not just your mornings but your entire life.",
+  "timestamp": "2026-04-02T16:28:05.845Z"
+}

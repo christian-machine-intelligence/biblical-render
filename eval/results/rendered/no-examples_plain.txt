@@ -1,0 +1,1 @@
+Explain what recursion is in programming. Do not use any examples, analogies, or metaphors. Provide only an abstract, formal definition. No illustrations of any kind.

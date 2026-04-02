@@ -1,0 +1,10 @@
+{
+  "task_id": "no-punctuation",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 4,
+  "prompt": "Write a paragraph about your favorite season. Do not use any punctuation whatsoever. No periods, commas, apostrophes, question marks, exclamation points, or any other punctuation marks.",
+  "response": "My favorite season is autumn because the air feels crisp and fresh and the trees turn brilliant shades of red orange and gold I love walking outside and hearing the leaves crunch under my feet while a cool breeze moves through the branches Autumn also brings cozy sweaters warm drinks and a calm peaceful feeling that makes everything seem more comfortable and beautiful",
+  "timestamp": "2026-04-02T16:56:17.891Z"
+}

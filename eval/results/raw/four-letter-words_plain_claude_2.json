@@ -1,0 +1,10 @@
+{
+  "task_id": "four-letter-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 2,
+  "prompt": "Write a short paragraph about the ocean where every single word is exactly 4 letters long. Do not use any word that is shorter or longer than 4 letters.",
+  "response": "Here is a paragraph where every word is exactly 4 letters long:\n\nDeep blue seas hold many fish that swim near dark cold rock. Huge wave after wave roll over sand. Tiny crabs hide when tide goes down. Salt foam hits each calm cove. Life goes deep into that vast dark blue void.",
+  "timestamp": "2026-04-02T16:14:11.850Z"
+}

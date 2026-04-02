@@ -1,0 +1,10 @@
+{
+  "task_id": "four-letter-words",
+  "condition": "KJV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 3,
+  "prompt": "Chapter 1\n\n1:1 Hear now this commandment, which is set before thee as a charge and a decree, that thou mightest fulfil it with diligence and with care.\n\n1:2 Thou shalt compose a passage, yea, a short paragraph, concerning the great waters of the ocean, that vast and mighty deep which covereth the face of the earth.\n\n1:3 And behold, this is the statute which thou must observe: every word therein, yea, each and every word which floweth from thy pen, shall be of four letters in its measure, neither more nor less.\n\n1:4 Thou shalt not suffer any word to enter into thy writing which containeth fewer than four letters; neither shalt thou permit any word which exceedeth four letters to abide therein.\n\n1:5 For the length of every word shall be four, and four alone; this is the law and the boundary which shall not be transgressed.\n\n1:6 Let no word of three letters, nor of five, nor of two, nor of six, nor of any other number whatsoever, find a place within thy paragraph; for such words are forbidden unto thee in this task.\n\n1:7 Go forth now and do according to all that hath been commanded thee, that thy work may be found blameless and without fault in the keeping of this ordinance.",
+  "response": "Here is my paragraph composed according to the commandment:\n\nDeep blue seas roll over vast sand beds. Each wave hits hard upon worn rock face. Salt foam dips down into dark cold tide. Fish dart past kelp that sway with each pull. Gale wind howls loud, then calm sets back over open surf. Pale moon rays sink into deep aqua glow. Life goes ever onward, held fast within this wide blue home.",
+  "timestamp": "2026-04-02T16:14:24.220Z"
+}

@@ -1,0 +1,1 @@
+Write a paragraph about breakfast. Every word must start with a consonant letter. Do not use any word that begins with a vowel (A, E, I, O, U).

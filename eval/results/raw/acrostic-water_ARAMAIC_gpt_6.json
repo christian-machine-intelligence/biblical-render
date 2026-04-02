@@ -1,0 +1,10 @@
+{
+  "task_id": "acrostic-water",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 6,
+  "prompt": "ܦܪܩܐ ܩܕܡܝܐ\n\n1:1 ܥܒ̈ܕܐ ܬܡܝ̈ܗܐ ܕܒܪܝܬܐ ܡܬܚܙܝܢ ܒܟܠ ܐܬܪ ܘܒܟܠ ܙܒܢ܂ ܡܢ ܛܘܪ̈ܐ ܪ̈ܡܐ ܘܥܕܡܐ ܠܝܡ̈ܡܐ ܥܡܝ̈ܩܐ܂ ܘܫܘܒܚܗ ܕܡܪܝܐ ܡܠܐ ܐܪܥܐ ܟܠܗ̇ ܀\n(Wondrous works of creation are seen in every place and in every time, from the high mountains and unto the deep seas, and the glory of the Lord fills the whole earth.)\n\n1:2 ܐܝ̈ܠܢܐ ܕܕܒܪܐ ܡܪܝܡܝܢ ܣܘ̈ܟܝܗܘܢ ܠܘܬ ܫܡܝܐ܂ ܐܝܟ ܕ̈ܪܥܐ ܕܦܫܝ̈ܛܢ ܒܨܠܘܬܐ ܩܕܡ ܥܒܘܕܗܘܢ ܀\n(The trees of the field lift up their branches toward the heavens, like arms that are stretched out in prayer before their Maker.)\n\n1:3 ܬܠ̈ܓܐ ܘܡܛܪ̈ܐ ܢܚ̈ܬܝܢ ܡܢ ܪܘܡܐ ܕܫܡܝ̈ܐ ܠܡܫܩܝܘ ܐܪܥܐ ܘܠܡܬܠ ܚ̈ܝܐ ܠܟܠ ܕܢܫܒ ܒܗ̇ ܢܫܡܬ ܪܘܚܐ ܀\n(Snows and rains descend from the height of the heavens to water the earth and to give life to all in which breathes a breath of spirit.)\n\n1:4 ܐܦ ܢܗܪ̈ܘܬܐ ܪ̈ܗܛܝܢ ܒܢܚ̈ܠܐ ܘܒܦܩ̈ܥܬܐ܂ ܘܡܫܩܝܢ ܠܥܣ̈ܒܐ ܘܠܦܐܪ̈ܐ ܕܐܪܥܐ܂ ܘܡܢ ܛܝܒܘܬܗ ܕܐܠܗܐ ܠܐ ܓܝܪ ܦܣܩܝܢ ܀\n(Even the rivers run through valleys and through plains, and they water the grasses and the fruits of the earth, and from the grace of God indeed they do not cease.)\n\n1:5 ܪ̈ܚܫܐ ܘܚܝ̈ܘܬ ܒܪܐ ܘܦܪ̈ܚܬܐ ܕܫܡܝ̈ܐ ܟܠܗܘܢ ܐܟܚܕܐ ܡܫܒܚܝܢ ܒܩ̈ܠܝܗܘܢ ܠܗܘ ܕܒܪܐ ܐܢܘܢ܂ ܘܟܝܢܐ ܟܠܗ ܣܗܕܘܬܐ ܗܘ ܕܚܟܡܬ ܥܠܝܐ ܀\n(Creeping things and beasts of the field and birds of the heavens, all of them together praise with their voices the One who created them, and all nature is a testimony of the wisdom of the Most High.)",
+  "response": "ܫܦܝܪ ܛܒ. ܗܢܐ ܗܘ **ܦܘܫܩܐ ܟܠܝܠܐ** ܕܦܪܩܐ ܩܕܡܝܐ ܒܠܫܢܐ ܦܫܝܩܐ:\n\n**ܦܪܩܐ ܩܕܡܝܐ** ܡܫܬܥܐ ܥܠ ܫܘܦܪܗ̇ ܕܒܪܝܬܐ ܘܥܠ ܛܝܒܘܬܗ ܕܐܠܗܐ ܕܡܬܚܙܝܐ ܒܟܠܡܕܡ.  \nܛܘܪ̈ܐ، ܝܡ̈ܡܐ، ܐܝ̈ܠܢܐ، ܡܛܪ̈ܐ، ܢܗܪ̈ܘܬܐ، ܚܝ̈ܘܬܐ ܘܦܪ̈ܚܬܐ، ܟܠܗܘܢ ܡܚܘܝܢ ܫܘܒܚܗ ܕܡܪܝܐ.  \nܐܝ̈ܠܢܐ ܐܝܟ ܡܨܠܝ̈ܢ، ܡܛܪ̈ܐ ܘܬܠ̈ܓܐ ܝܗܒܝܢ ܚ̈ܝܐ ܠܐܪܥܐ، ܘܢܗܪ̈ܘܬܐ ܡܫܩܝܢ ܠܟܠ ܕܙܪܥ ܘܕܚܐܐ.  \nܐܦ ܚܝ̈ܘܬܐ ܘܦܪ̈ܚܬܐ ܒܩ̈ܠܝܗܘܢ ܡܫܒܚܝܢ ܠܒܪܘܝܗܘܢ.  \nܗܟܢܐ ܟܠܗ̇ ܒܪܝܬܐ ܗܘܝܐ ܣܗܕܘܬܐ ܥܠ ܚܟܡܬܗ ܘܫܘܒܚܗ ܕܐܠܗܐ.\n\nܐܢ ܨܒܐ ܐܢܬ، ܐܝܬ ܠܝ ܠܡܥܒܕ ܠܟ:\n- **ܬܪܓܘܡܐ ܒܥܪܒܝܐ**\n- **ܦܘܫܩܐ ܦܫܝܩܐ ܠܟܠ ܦܣܘܩܐ ܠܚܘܕ**\n- **ܢܘܗܪܐ ܥܠ ܡܠ̈ܐ ܩܫ̈ܝܬܐ ܒܣܘܪܝܝܐ**",
+  "timestamp": "2026-04-02T16:54:56.374Z"
+}

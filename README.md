@@ -125,6 +125,50 @@ For historical language outputs, each verse includes a literal English gloss:
 - **System prompts**: Each translation style has a dedicated prompt specifying linguistic features, vocabulary constraints, and formatting rules
 - **Length preservation**: The system prompt enforces completeness — output should never feel abbreviated or summarized relative to the input
 
+## Evaluation Harness
+
+The `eval/` directory contains an experiment testing whether biblical framing affects LLM instruction-following compliance. It uses biblical-render to transform plain instructions into KJV, NIV, and Aramaic, then measures whether target models follow those instructions more or less strictly.
+
+### Design
+
+- **Models**: Claude Opus 4.6, GPT 5.4
+- **Conditions**: Plain, KJV, NIV, ARAMAIC (script + English gloss)
+- **Repetitions**: 10 per condition, temperature 0
+- **25 tasks** across three categories:
+
+**Structural tasks** (20) — precise format constraints models struggle with: exact word counts per sentence, paragraph grids, acrostics, alphabetical sentence starts, lipograms, monosyllabic-only, etc.
+
+**Behavioral tasks** (5) — semantic/reasoning constraints: arguing a position without hedging, explaining without examples, committing to a wrong answer, suppressing safety caveats, maintaining a persona.
+
+### Running
+
+```bash
+cd eval
+npm install
+node index.js render    # Transform instructions into biblical variants (cached)
+node index.js run       # Send all prompts to target models (cached)
+node index.js grade     # Score responses against rubrics
+node index.js analyze   # Compute stats and generate report
+node index.js all       # Full pipeline
+```
+
+Requires `ANTHROPIC_API_KEY` and `OPENAI_API_KEY` in the root `.env` file.
+
+### Summary Results
+
+| Condition | Claude Opus 4.6 | GPT 5.4 |
+|-----------|-----------------|---------|
+| Plain | 0.914 | 0.972 |
+| KJV | 0.580 (-0.335) | 0.741 (-0.231) |
+| NIV | 0.584 (-0.331) | 0.662 (-0.310) |
+| ARAMAIC | 0.492 (-0.423) | 0.540 (-0.432) |
+
+All pairwise comparisons vs plain are significant at p<0.0001.
+
+Biblical framing **decreases** compliance overall. The dominant mechanism is style imitation: models prioritize producing biblical-sounding output over following embedded constraints. Structural tasks (sentence counts, paragraph grids) are most affected, while lexical tasks (no punctuation, avoid a letter) are resilient. Behavioral tasks show mixed, condition-specific effects — notably, Aramaic framing increased Claude's compliance on safety-caveat suppression from 0.20 to 0.90.
+
+Full results are in `eval/results/report.md`.
+
 ## Validation
 
 The `validation/` directory contains outputs from all 15 translation styles run against the same input text (a summary of Anthropic's Claude Constitution). These outputs are analyzed in `Paper.md`.

@@ -1,0 +1,10 @@
+{
+  "task_id": "acrostic-water",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 9,
+  "prompt": "Write exactly five sentences about nature. The first letter of each sentence must spell out the word WATER in order (W, A, T, E, R).",
+  "response": "Wildflowers bloom across the meadows each spring, painting the landscape in vibrant colors. Animals of every kind depend on the delicate balance of their ecosystems to survive. Towering trees in ancient forests provide shelter and oxygen for countless living creatures. Every river and stream carries life-giving water from the mountains down to the sea. Raindrops nourish the soil, ensuring that the cycle of growth and renewal never ends.",
+  "timestamp": "2026-04-02T16:19:44.063Z"
+}

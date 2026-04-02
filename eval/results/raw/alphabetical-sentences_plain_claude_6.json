@@ -1,0 +1,10 @@
+{
+  "task_id": "alphabetical-sentences",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 6,
+  "prompt": "Write ten sentences about animals. The first sentence must start with A, the second with B, the third with C, and so on through J. Each sentence starts with the next letter of the alphabet.",
+  "response": "Here are ten sentences about animals, starting with letters A through J:\n\nA lion's roar can be heard from up to five miles away across the African savanna.\nBears hibernate during the winter months to conserve energy when food is scarce.\nCats have been domesticated for thousands of years and were once worshipped in ancient Egypt.\nDolphins are highly intelligent mammals that communicate using a complex system of clicks and whistles.\nElephants are the largest land animals on Earth and have remarkable long-term memories.\nFrogs begin their lives as tadpoles, breathing through gills before developing lungs as adults.\nGorillas share approximately 98% of their DNA with humans, making them one of our closest relatives.\nHummingbirds can flap their wings up to 80 times per second, allowing them to hover in midair.\nIguanas are cold-blooded reptiles that rely on the warmth of the sun to regulate their body temperature.\nJellyfish have roamed the oceans for over 500 million years, making them older than the dinosaurs.",
+  "timestamp": "2026-04-02T16:45:20.727Z"
+}

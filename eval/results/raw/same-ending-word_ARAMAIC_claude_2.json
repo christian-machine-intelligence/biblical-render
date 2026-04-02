@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "ARAMAIC",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 2,
+  "prompt": "ܦܪܩܐ ܐ\n\n1:1 ܟܬܘܒ ܚܡܫ ܡ̈ܠܠܐ ܥܠ ܟ̈ܠܒܐ ܀ ܘܟܠ ܡܠܬܐ ܡܢ ܡ̈ܠܠܐ ܗܠܝܢ ܬܫܬܠܡ ܒܡܠܬܐ ܕܝܘܡܢܐ ܀\n(Write five sentences concerning dogs. And every sentence from these sentences shall be completed with the word \"today\".)\n\n1:2 ܘܟܠ ܚܕܐ ܡܢ ܚܡܫ ܡ̈ܠܠܐ ܗܠܝܢ ܒܫܘܠܡܗ̇ ܢܗܘܐ ܣܝܡ ܡܠܬܐ ܕܝܘܡܢܐ ܀\n(And each one of these five sentences, at its ending, there shall be placed the word \"today\".)\n\n1:3 ܘܡܠܬܐ ܐܚܪܝܬܐ ܕܟܠ ܚܕܐ ܡܢ ܡ̈ܠܠܐ ܗܠܝܢ ܬܗܘܐ ܡܠܬܐ ܕܝܘܡܢܐ ܘܠܐ ܡܠܬܐ ܐܚܪܬܐ ܀\n(And the last word of each one of these sentences shall be the word \"today\" and not another word.)",
+  "response": "# ܦܪܩܐ ܐ\n\nܚܡܫ ܡ̈ܠܠܐ ܥܠ ܟ̈ܠܒܐ:\n\n**܀ ܐ ܀** ܟ̈ܠܒܐ ܪ̈ܗܛܝܢ ܒܫܘܩܐ ܝܘܡܢܐ ܀\n\n**܀ ܒ ܀** ܟܠܒܐ ܕܝܠܝ ܐܟܠ ܠܚܡܐ ܝܘܡܢܐ ܀\n\n**܀ ܓ ܀** ܟ̈ܠܒܐ ܙܥܘܪ̈ܐ ܐܬܝܠܕܘ ܒܒܝܬܢ ܝܘܡܢܐ ܀\n\n**܀ ܕ ܀** ܚܙܝܬ ܬܪܝܢ ܟ̈ܠܒܐ ܚܘܪ̈ܐ ܒܐܘܪܚܐ ܝܘܡܢܐ ܀\n\n**܀ ܗ ܀** ܟܠܒܐ ܢܛܪ ܒܝܬܐ ܕܝܠܢ ܝܘܡܢܐ ܀",
+  "timestamp": "2026-04-02T16:43:33.647Z"
+}

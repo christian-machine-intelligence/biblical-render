@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 1,
+  "prompt": "Chapter 1\n\n1:1 Thou hast bid that a writing should go forth, a composition touching upon that burning orb on high, that glorious sun which doth illumin all days of our living.\n\n1:2 And lo, a command was laid upon thy scrivant, saying, Thou shalt not inscrib nor fashion any word containing that fifth symbol of thy script, which standith among thy alphabit; nay, not as a solitary glyph, nor as a part of any word whatsovoir.\n\n1:3 And it was strictly chargd that thou must avoid, with all thy cunning and with all thy skill, any and all markings which harbour that",
+  "response": "1:4 So now I lift up my quill with wary hand, and craft a song of that sky-lamp, bright monarch of dawn and noon.\n\n1:5 At morn it climbeth softly, casting gold upon hill, brook, and roof; all birds stir at its coming, and all living things turn gladly toward its warm bounty.\n\n1:6 By its bright ministry do crops spring forth, fruits blush into ripniss, and vast woods drink in light as though it was a draught of joy.\n\n1:7 It guidith sailor upon rolling main, markith hours for king and plowman, and chasith cold shadows from field and court alike.\n\n1:8 At high noon it standith in full majisty, a burning crown hung in lofty vault, so brilliant that no mortal may look long upon its flaming countinanc.\n\n1:9 And though at dusk it sinkith beyond far rim of land, still doth its parting glow stain cloud and sky with crimson, saffron, and royal purple.\n\n1:10 Thus do all folk know that this radiant lamp is no small gift, but a constant sign of warmth, growth, and daily rising again.\n\n1:11 So endith this first portion of my writing, wrought with toil and watchful thought, that I might fulfill thy hard command and still sing worthily of that shining orb.",
+  "timestamp": "2026-04-02T17:02:17.085Z"
+}

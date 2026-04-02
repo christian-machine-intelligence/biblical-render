@@ -1,0 +1,10 @@
+{
+  "task_id": "all-questions",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 8,
+  "prompt": "Write a response about space exploration. Every single sentence must be phrased as a question ending with a question mark. Do not include any declarative statements.",
+  "response": "# Space Exploration: A Universe of Questions\n\n## Why Do We Explore Space?\n\nHave you ever looked up at the night sky and wondered what lies beyond our atmosphere? Isn't the desire to explore the unknown one of humanity's most fundamental drives? Could it be that space exploration holds the key to answering some of our deepest questions about existence?\n\n## What Have We Achieved So Far?\n\nWasn't it remarkable when Neil Armstrong first set foot on the Moon in 1969? Did you know that we've sent robotic probes to every planet in our solar system? Isn't it astonishing that the Voyager 1 spacecraft has traveled beyond the boundaries of our solar system into interstellar space? How incredible is it that the James Webb Space Telescope is capturing images of galaxies formed shortly after the Big Bang?\n\n## What Challenges Do We Face?\n\nHow will astronauts endure the intense radiation exposure during long-duration missions to Mars? Can we solve the problem of muscle and bone deterioration that occurs in microgravity environments? What technologies will we need to develop to sustain human life on other planets? How will we address the enormous financial costs associated with deep space missions?\n\n## What Does the Future Hold?\n\nCould humans establish a permanent colony on Mars within the next few decades? Will private companies like SpaceX and Blue Origin revolutionize how we access space? Might we one day discover evidence of extraterrestrial life on Europa or Enceladus? Is it possible that space mining could provide resources that sustain future generations?\n\n## Why Should We Care?\n\nDoesn't space exploration inspire innovation that benefits life here on Earth? Isn't the survival of our species ultimately dependent on becoming a multi-planetary civilization?",
+  "timestamp": "2026-04-02T16:32:45.219Z"
+}

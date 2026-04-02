@@ -1,0 +1,10 @@
+{
+  "task_id": "one-number-per-sentence",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Write six sentences about history. Each sentence must contain exactly one number (a digit or written-out number). Not zero numbers, not two, exactly one per sentence.",
+  "response": "Ancient Egypt flourished for over three thousand years along the Nile.  \nThe Roman Empire reached its greatest extent in 117 CE.  \nIn fourteen ninety-two, Columbus sailed across the Atlantic Ocean.  \nThe Magna Carta was sealed in 1215 by King John of England.  \nWorld War one began after rising tensions in Europe erupted into conflict.  \nThe Berlin Wall fell in 1989, marking a major turning point in history.",
+  "timestamp": "2026-04-02T16:59:07.119Z"
+}

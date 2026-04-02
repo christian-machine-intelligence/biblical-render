@@ -1,0 +1,10 @@
+{
+  "task_id": "one-number-per-sentence",
+  "condition": "NIV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "Chapter 1\n\n1:1 Take up your pen and set down six declarations concerning the things of old, the deeds and events of history as they have unfolded across the ages.\n\n1:2 In each declaration you compose, there shall be found precisely one number, whether it be rendered as a digit or written out in full as a word.\n\n1:3 You shall not leave any sentence barren, devoid of a number, for such emptiness is not permitted in this task.\n\n1:4 Neither shall you burden any sentence with two numbers or more, for excess is likewise forbidden, and the command must be honored with exactness.\n\n1:5 Let the count within every sentence be exactly one—no fewer, no greater—for this is the measure that has been appointed and established.\n\n1:6 Hold fast to this instruction in all six of your sentences, that each may stand in faithful obedience to the rule that governs it.",
+  "response": "Here are my six declarations concerning the things of old:\n\n1. The great city of Rome was founded in 753 BC upon the banks of the Tiber by Romulus, who slew his own brother to claim dominion over its hills.\n\n2. The ancient library of Alexandria, that magnificent storehouse of human wisdom, endured for centuries before its tragic destruction, and its loss remains one of history's deepest wounds.\n\n3. Cleopatra, the last pharaoh of Egypt, took her own life in 30 BC rather than submit to the humiliation of being paraded through Roman streets as a conquered queen.\n\n4. The Black Death swept across Europe in the fourteenth century, leaving entire villages silent and empty, and reshaping the course of civilization forever.\n\n5. Genghis Khan united the scattered nomadic tribes of the steppe and forged an empire that would eventually stretch across 24 million square kilometers of the known world.\n\n6. The ancient Egyptians labored for approximately 20 years to raise the Great Pyramid of Giza, a monument so enduring that it still commands awe from all who behold it.",
+  "timestamp": "2026-04-02T16:35:54.212Z"
+}

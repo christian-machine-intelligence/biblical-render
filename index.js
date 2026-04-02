@@ -422,4 +422,8 @@ program
     );
   });
 
-program.parse();
+if (require.main === module) {
+  program.parse();
+}
+
+module.exports = { TRANSLATIONS, buildSystemPrompt, transformText };

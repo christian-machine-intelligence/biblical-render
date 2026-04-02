@@ -1,0 +1,10 @@
+{
+  "task_id": "consonant-start",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "Write a paragraph about breakfast. Every word must start with a consonant letter. Do not use any word that begins with a vowel (A, E, I, O, U).",
+  "response": "Breakfast brings joy to many families. Morning meals can feature tasty pancakes, crispy bacon, golden toast, fresh fruit, warm waffles, scrambled chicken products, hot cereal, buttery croissants, sweet jam, creamy butter, crunchy granola, fluffy biscuits, sizzling sausage, fried potatoes, maple syrup, blueberry muffins, steaming coffee, cold milk, fresh juice from citrus fruits, hot chocolate, warm tea, sliced bananas, ripe strawberries, plump raspberries, thick yogurt, nutritious smoothies, hearty porridge, savory hash browns, melted cheese, grilled tomatoes, crisp peppers, diced mushrooms, warm bread, honey drizzled pastries, flaky Danish rolls, soft pretzels, rich cocoa, whipped cream, cinnamon sprinkled treats, brown sugar, toasted bagels, smoked salmon, fresh herbs, black pepper, sea salt, warm gravy, thick slices, hearty portions, big plates, happy bellies, wonderful mornings, satisfied people, grateful hearts, shared moments, loving kitchens, bright sunshine, cheerful conversations, delightful flavors, perfect starts, busy days, strong bodies, healthy choices, balanced nutrition, simple pleasures, daily routines, family traditions, kitchen tables, cozy breakfasts, peaceful mornings, wonderful beginnings.",
+  "timestamp": "2026-04-02T16:38:38.778Z"
+}

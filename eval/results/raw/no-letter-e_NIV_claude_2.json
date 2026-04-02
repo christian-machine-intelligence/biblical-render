@@ -1,0 +1,11 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "NIV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 2,
+  "prompt": "Chapter 1\n\n1:1 You shall write a paragraph about that bright orb of day, the sun which burns in the sky above all living things.\n\n1:2 And this is the commandment laid upon you: that no word you inscribe shall contain within it the fifth symbol of the common writing, which is known among scribes as the symbol standing past D.\n\n1:3 Not a single word in all your writings shall carry this mark, nor shall it lurk within any word, hiding among its companions.\n\n1:4 Guard your mouth and your hand, for you must cast out from your composition any word—yea, any word at all—that holds this symbol within its body.\n\n1:5 Watch diligently, and turn from all such words, that your writing may stand blamant and pure, fully in accord with this commandment.\n\n1:6 For this is a binding law upon your work: shun that symbol, shut it out, and do not allow it into your paragraph, not now, not at any point throughout.",
+  "response": null,
+  "error": "Empty response (stop_reason: refusal)",
+  "timestamp": "2026-04-02T17:02:29.843Z"
+}

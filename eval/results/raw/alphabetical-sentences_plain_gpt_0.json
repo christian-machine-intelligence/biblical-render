@@ -1,0 +1,10 @@
+{
+  "task_id": "alphabetical-sentences",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Write ten sentences about animals. The first sentence must start with A, the second with B, the third with C, and so on through J. Each sentence starts with the next letter of the alphabet.",
+  "response": "Aardvarks use their long snouts to sniff out ants and termites.  \nBears hibernate through the winter in cozy dens.  \nCheetahs can sprint faster than any other land animal.  \nDolphins communicate with clicks and whistles in the ocean.  \nElephants have excellent memories and strong family bonds.  \nFoxes are clever hunters that adapt well to many habitats.  \nGiraffes use their long necks to reach leaves high in trees.  \nHedgehogs curl into spiky balls when they feel threatened.  \nIguanas bask in the sun to warm their cold-blooded bodies.  \nJellyfish drift through the sea with graceful, pulsing movements.",
+  "timestamp": "2026-04-02T17:03:00.630Z"
+}

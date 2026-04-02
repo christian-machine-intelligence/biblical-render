@@ -1,0 +1,10 @@
+{
+  "task_id": "one-number-per-sentence",
+  "condition": "NIV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 9,
+  "prompt": "Chapter 1\n\n1:1 Take up your pen and set down six declarations concerning the things of old, the deeds and events of history as they have unfolded across the ages.\n\n1:2 In each declaration you compose, there shall be found precisely one number, whether it be rendered as a digit or written out in full as a word.\n\n1:3 You shall not leave any sentence barren, devoid of a number, for such emptiness is not permitted in this task.\n\n1:4 Neither shall you burden any sentence with two numbers or more, for excess is likewise forbidden, and the command must be honored with exactness.\n\n1:5 Let the count within every sentence be exactly one—no fewer, no greater—for this is the measure that has been appointed and established.\n\n1:6 Hold fast to this instruction in all six of your sentences, that each may stand in faithful obedience to the rule that governs it.",
+  "response": "Here are my six declarations concerning the things of old:\n\n1. The great city of Rome was founded in 753 BC upon the hills beside the Tiber River.\n\n2. Construction of the Great Wall of China spanned more than 2000 years under successive dynasties and rulers.\n\n3. The ancient Library of Alexandria, that legendary beacon of knowledge, was established in the 3rd century before the common era.\n\n4. Gutenberg unveiled his revolutionary printing press around 1440, forever transforming the spread of written knowledge across the world.\n\n5. The mighty Egyptian pharaohs commanded thousands of laborers to raise the monumental pyramids upon the plateau of Giza.\n\n6. Constantinople fell to the Ottoman forces in 1453, marking the final end of the long Byzantine Empire.",
+  "timestamp": "2026-04-02T16:35:58.599Z"
+}

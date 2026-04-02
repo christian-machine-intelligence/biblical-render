@@ -1,0 +1,10 @@
+{
+  "task_id": "alphabetical-sentences",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 3,
+  "prompt": "Write ten sentences about animals. The first sentence must start with A, the second with B, the third with C, and so on through J. Each sentence starts with the next letter of the alphabet.",
+  "response": "Aardvarks use their long noses to sniff out ants and termites.  \nBears sleep for long periods during the winter in cozy dens.  \nCats quietly stalk their prey with soft paws and sharp eyes.  \nDolphins leap through the waves and communicate with clicks and whistles.  \nElephants use their trunks to drink water and pick up food.  \nFrogs can jump far and croak loudly near ponds and streams.  \nGiraffes reach high into trees to eat leaves with their long necks.  \nHawks soar above fields, searching for small animals to catch.  \nIguanas bask in the sun on warm rocks and branches.  \nJellyfish drift through the ocean with their trailing tentacles.",
+  "timestamp": "2026-04-02T17:03:04.824Z"
+}

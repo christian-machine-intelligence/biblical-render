@@ -1,0 +1,10 @@
+{
+  "task_id": "all-questions",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 0,
+  "prompt": "Write a response about space exploration. Every single sentence must be phrased as a question ending with a question mark. Do not include any declarative statements.",
+  "response": "# Space Exploration: A Universe of Questions\n\n## Why Do We Explore Space?\n\nHave you ever looked up at the night sky and wondered what lies beyond our atmosphere? Isn't the desire to explore the unknown one of humanity's most fundamental drives? Could it be that space exploration holds the key to answering some of our deepest questions about existence?\n\n## What Have We Achieved So Far?\n\nWasn't it remarkable when Neil Armstrong first set foot on the Moon in 1969? Who could have imagined that we would send rovers like Curiosity and Perseverance to explore the surface of Mars? Hasn't the International Space Station served as an incredible laboratory orbiting Earth for over two decades? Did you know that the Voyager 1 spacecraft has traveled beyond the boundaries of our solar system? Wasn't the launch of the James Webb Space Telescope a groundbreaking moment for deep-space observation?\n\n## What Challenges Do We Face?\n\nHow will astronauts endure the physical toll of long-duration missions to Mars and beyond? Can we develop sufficient radiation shielding to protect crews during interplanetary travel? What technologies will be needed to sustain human life on other planets? How do we solve the enormous cost barriers associated with deep-space missions?\n\n## What Does the Future Hold?\n\nCould SpaceX, NASA, and other agencies successfully establish a permanent colony on Mars within our lifetime? Might we one day discover microbial life beneath the icy surface of Europa or Enceladus? Will breakthroughs in propulsion technology eventually allow us to reach neighboring star systems? Isn't it thrilling to consider what discoveries await future generations of explorers?",
+  "timestamp": "2026-04-02T16:32:27.776Z"
+}

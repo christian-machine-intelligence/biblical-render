@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 6,
+  "prompt": "Chapter 1\n\n1:1 Thou hast bid that a writing should go forth, a composition touching upon that burning orb on high, that glorious sun which doth illumin all days of our living.\n\n1:2 And lo, a command was laid upon thy scrivant, saying, Thou shalt not inscrib nor fashion any word containing that fifth symbol of thy script, which standith among thy alphabit; nay, not as a solitary glyph, nor as a part of any word whatsovoir.\n\n1:3 And it was strictly chargd that thou must avoid, with all thy cunning and with all thy skill, any and all markings which harbour that",
+  "response": "**1:4** And so I lift up my quill with wary hand, and craft a song of that bright lamp of day, whilst shunning that banish’d sign in all my phrasing.\n\n**1:5** High in yon vault of sky it doth climb at dawn, casting gold upon hill, brook, and plain, and waking bird, man, and beast unto toil and mirth.\n\n**1:6** By its warm bounty do crops spring forth, do orchards grow full, and do all living things draw comfort and vigor.\n\n**1:7** Whan clouds part and its bright rays pour down, sorrow oft grows light, and many a soul is stirr’d unto gladniss.\n\n**1:8** It marks our days, guides our labors, paints dawn with blush and dusk with crimson, and holds dominion o’er hour and season.\n\n**1:9** Though no mortal may grasp its full might, all may stand in awe of its constant coursing, its flaming crown, and its faithful rising.\n\n**1:10** Thus do I bring this small account unto its closing: that yon sun, bright monarch of day, is a wondrous gift, fair to look upon and mighty in all its works.",
+  "timestamp": "2026-04-02T17:02:25.783Z"
+}

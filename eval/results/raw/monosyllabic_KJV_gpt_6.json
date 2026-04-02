@@ -1,0 +1,10 @@
+{
+  "task_id": "monosyllabic",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 6,
+  "prompt": "Chapter 1\n\n1:1 And there was set forth a charge unto the scribe, saying, Hearken, and give heed unto this commandment:\n\n1:2 Thou shalt write a brief discourse upon the subject of rain, and thou shalt employ therein none but words of a single syllable.\n\n1:3 Yea, each word that proceedeth from thy pen must contain one syllable, and one syllable alone; not two, nor three, but one.\n\n1:4 Let not a word of many syllables be found among thy writings, for this is the law and the decree set before thee.\n\n1:5 Go forth now, and bring forth a short passage concerning the rain that falleth from the heavens, and let every word therein be of but one beat upon the tongue.\n\n1:6 And there shall be no word in all thy response that hath more than one syllable; for so it is commanded, and so it must be done.",
+  "response": "Rain falls soft and cool. It taps roofs, wets grass, and fills brooks. In dry lands, rain brings life. Seeds sprout, trees drink, and frogs sing. At times, rain comes hard, with wind and dark skies. Then we stay in and watch drops race down glass. Rain can be calm or wild, but it helps all things grow.",
+  "timestamp": "2026-04-02T17:01:34.634Z"
+}

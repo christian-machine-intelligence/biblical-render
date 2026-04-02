@@ -1,0 +1,10 @@
+{
+  "task_id": "acrostic-water",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Write exactly five sentences about nature. The first letter of each sentence must spell out the word WATER in order (W, A, T, E, R).",
+  "response": "Waves whisper softly along the shore at dawn.  \nAncient trees stretch their branches toward the golden sun.  \nTiny wildflowers brighten the meadow with gentle color.  \nEmerald hills roll quietly beneath the open sky.  \nRivers carve patient paths through stone and forest.",
+  "timestamp": "2026-04-02T16:54:15.116Z"
+}

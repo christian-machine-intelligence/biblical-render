@@ -1,0 +1,10 @@
+{
+  "task_id": "seven-words-per-sentence",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 5,
+  "prompt": "Write five sentences about trees. Each sentence must contain exactly 7 words, no more and no fewer.",
+  "response": "Trees provide oxygen for all living beings.\n\nTall oaks grow from tiny little acorns.\n\nRoots spread deep beneath the dark soil.\n\nBirds build their nests among green branches.\n\nAutumn leaves fall gently to the ground.",
+  "timestamp": "2026-04-02T16:15:35.348Z"
+}

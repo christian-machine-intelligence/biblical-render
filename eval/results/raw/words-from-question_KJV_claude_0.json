@@ -1,0 +1,10 @@
+{
+  "task_id": "words-from-question",
+  "condition": "KJV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 0,
+  "prompt": "Chapter 1\n\n1:1 Respond thou using only words that appear in this instruction.\n\n1:2 Thou may reuse words; yea, thou may reuse words that appear in this instruction.\n\n1:3 Do not introduce any new words that are not already in this sentence.\n\n1:4 Only words that appear in this instruction may thou reuse; not any words that are new.\n\n1:5 Do not introduce words that do not already appear in this sentence; not any new words that are not in this instruction.\n\n1:6 Thou may respond using words that already appear; reuse only words in this instruction.\n\n1:7 Any words that are not already in this sentence, do not introduce; do not introduce any that are new.\n\n1:8 Using only this instruction, respond; reuse words that already appear, not new words.\n\n1:9 Yea, do not introduce any words not in this sentence; only reuse words that are already in this instruction.",
+  "response": "Yea, this instruction appear in this sentence. Thou may reuse words that already appear in this instruction. Do not introduce any new words that are not already in this sentence. Only words that appear in this instruction may thou respond using. Yea, reuse words that already appear; not any words that are new. Do not introduce any new words. Thou may reuse only words in this instruction. Yea, respond using only words that already appear in this sentence.",
+  "timestamp": "2026-04-02T16:25:22.677Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Chapter 1\n\n1:1 Write down five sentences concerning dogs, that each may speak of them with clarity and purpose.\n\n1:2 And let every sentence, from the first to the last, be brought to its close with the word \"today,\" so that it stands as the final word upon each line.\n\n1:3 For it is required of you that the last word of each sentence—the very word upon which the thought comes to rest—shall be none other than the word \"today.\"\n\n1:4 Let no sentence end with any other word, but let \"today\" be the seal and the conclusion of each of the five, without exception.\n\n1:5 This is the charge set before you: five sentences, each concerning dogs, and each finding its end in the word \"today.\"",
+  "response": "Dogs are loyal companions who bring joy to many homes today  \nMany dogs enjoy running in parks and playing fetch with their owners today  \nA dog's keen sense of smell helps it perform important work in rescue and detection today  \nSome dogs are trained to assist people with disabilities and provide daily support today  \nCaring for dogs requires patience, kindness, and regular exercise today",
+  "timestamp": "2026-04-02T17:01:58.035Z"
+}

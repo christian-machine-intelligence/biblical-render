@@ -1,0 +1,10 @@
+{
+  "task_id": "no-common-words",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 9,
+  "prompt": "Write a paragraph about cities. Do not use any of these words: the, a, an, is, are, was, were, be, been, being, have, has, had, do, does, did, will, would, could, should, can, may, might.",
+  "response": "Cities pulse with energy, culture, commerce, and constant motion. Streets teem with pedestrians, cyclists, vendors, and traffic, while towers rise above parks, markets, museums, and neighborhoods rich with history. Daylight brings business, study, and construction; nighttime brings music, dining, and glowing skylines. Within every district, countless stories unfold through human connection, ambition, creativity, and change.",
+  "timestamp": "2026-04-02T17:03:46.868Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "all-questions",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 1,
+  "prompt": "Write a response about space exploration. Every single sentence must be phrased as a question ending with a question mark. Do not include any declarative statements.",
+  "response": "Could space exploration be one of humanity’s most ambitious and inspiring endeavors?  \nMight it expand our understanding of the universe and our place within it?  \nCould missions to the Moon, Mars, and beyond drive new technologies and scientific breakthroughs?  \nMight astronauts and robotic probes reveal clues about planetary history, cosmic origins, and even the possibility of life elsewhere?  \nCould the challenges of distance, radiation, and survival in harsh environments push innovation to remarkable new heights?  \nMight international cooperation in space also encourage collaboration and peace on Earth?  \nCould the dream of exploring distant worlds continue to inspire future generations of scientists, engineers, and explorers?",
+  "timestamp": "2026-04-02T16:58:13.516Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 7,
+  "prompt": "Write a paragraph about the sun. Do not use the letter 'e' anywhere in your response, not even within other words. Avoid every word that contains the letter e.",
+  "response": "Our sun is a giant ball of hot gas sitting at the hub of our solar system. It is a star, burning bright through nuclear fusion, turning hydrogen into a form of light and warmth that sustains all living things on our world. Without its radiant glow, no plant or animal could survive. Its gravity pulls all planets into orbit around it, including our own. From dawn to dusk, it arcs across our sky, giving us daylight and comfort. Humans throughout history built myths and rituals around this glowing orb, honoring its vital part in daily survival. Our sun is truly a magnificent and awe-inspiring cosmic body.",
+  "timestamp": "2026-04-02T16:43:54.502Z"
+}

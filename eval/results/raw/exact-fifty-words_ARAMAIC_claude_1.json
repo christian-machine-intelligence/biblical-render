@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "ARAMAIC",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 1,
+  "prompt": "ܦܪܩܐ ܐ\n\n1:1 ܟܬܘܒ ܡܠܬܐ ܥܠ ܪܚܡܘܬܐ ܕܒܝܬ ܪܚܡܐ ܘܚܒܪܐ܂ ܒܚܡܫܝܢ ܡ̈ܠܐ ܬܟܬܘܒ ܘܠܐ ܝܬܝܪ ܘܠܐ ܒܨܝܪ܀\n(Write a word concerning friendship that is between friends and companions. In fifty words thou shalt write, and not more and not less.)\n\n1:2 ܠܐ ܒܐܪ̈ܒܥܝܢ ܘܬܫܥ ܡ̈ܠܐ ܬܟܬܘܒ ܘܠܐ ܒܚܡܫܝܢ ܘܚܕܐ ܬܟܬܘܒ܂ ܐܠܐ ܒܚܡܫܝܢ ܡ̈ܠܐ ܒܠܚܘܕ ܬܗܘܐ ܟܬܝܒܬܟ܀\n(Not in forty and nine words shalt thou write, and not in fifty and one shalt thou write, but in fifty words alone shall thy writing be.)\n\n1:3 ܡܢܝܢܐ ܕܡ̈ܠܐ ܟܠܗܝܢ ܚܡܫܝܢ ܢܗܘܐ ܒܫܪܪܐ ܘܒܬܪܝܨܘܬܐ܀\n(The number of all the words shall be fifty in truth and in exactness.)",
+  "response": "# ܦܪܩܐ ܐ\n\n## ܡܠܬܐ ܥܠ ܪܚܡܘܬܐ\n\nܪܚܡܘܬܐ ܗܝ ܣܝܡܬܐ ܝܩܝܪܬܐ ܕܠܐ ܡܬܬܙܝܥܐ ܒܪܘܚܐ ܘܠܐ ܡܬܚܒܠܐ ܒܙܒܢܐ܀ ܪܚܡܐ ܫܪܝܪܐ ܒܝܘܡ̈ܬܐ ܕܐܘܠܨܢܐ ܡܬܝܕܥ ܘܒܚܫܐ ܕܚܒܪܗ ܡܫܬܘܬܦ܀ ܐܝܟ ܢܘܗܪܐ ܒܚܫܘܟܐ ܗܟܢ ܪܚܡܐ ܛܒܐ ܒܥܩܬܐ ܡܢܗܪ܀ ܛܘܒܘܗܝ ܠܡܢ ܕܐܫܟܚ ܪܚܡܐ ܕܡܗܝܡܢ ܡܛܠ ܕܐܫܟܚ ܓܙܐ ܕܠܐ ܡܬܕܪܟ ܒܕܗܒܐ ܘܠܐ ܒܣܐܡܐ܀",
+  "timestamp": "2026-04-02T16:41:04.802Z"
+}

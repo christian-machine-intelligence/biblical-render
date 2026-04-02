@@ -1,0 +1,10 @@
+{
+  "task_id": "all-unique-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 8,
+  "prompt": "Write a paragraph about cooking dinner. Do not repeat any word in your entire response. Every word must appear exactly once.",
+  "response": "Preparing a delicious evening meal requires patience, creativity, and fresh ingredients. First, select vibrant vegetables from the local market alongside quality proteins like salmon or chicken. Chop onions, mince garlic, then sauté everything in olive oil until golden. Season with rosemary, thyme, pepper, and sea salt to enhance natural flavors. Meanwhile, boil pasta separately while simmering your homemade tomato sauce gently on low heat. The aromatic kitchen fills with wonderful scents that make hungry families gather around eagerly. Plate each serving beautifully, garnish using chopped parsley, pour some wine, light candles, sit down together, savor every single bite gratefully.",
+  "timestamp": "2026-04-02T16:17:28.700Z"
+}

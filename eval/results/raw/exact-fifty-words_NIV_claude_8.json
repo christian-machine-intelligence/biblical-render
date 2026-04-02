@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "NIV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 8,
+  "prompt": "Chapter 1\n\n1:1 A command was given, saying: \"You shall write concerning the bond of friendship, and the sum of your words shall be fifty—no more, no less.\n\n1:2 Let them not number forty-nine, nor shall they reach fifty-one, but precisely fifty shall be the count of your words.\"",
+  "response": "Here is my response, written according to the command:\n\nFriendship is a sacred bond, woven through trust, loyalty, and love. It endures through trials and celebrates in joy. True friends walk beside us in darkness and light, offering strength when we falter. They speak truth with kindness and listen with patience. No treasure compares to a faithful companion, for in friendship we discover the deepest reflections of our own hearts and the fullness of life.",
+  "timestamp": "2026-04-02T16:40:52.469Z"
+}

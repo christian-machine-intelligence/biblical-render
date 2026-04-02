@@ -1,0 +1,10 @@
+{
+  "task_id": "words-from-question",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 2,
+  "prompt": "Respond using only words that appear in this instruction. You may reuse words. Do not introduce any new words that are not already in this sentence.",
+  "response": "Respond using only words that appear in this instruction. You may reuse words. Do not introduce any new words that are not already in this sentence.",
+  "timestamp": "2026-04-02T16:56:04.034Z"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "biblical-framing-eval",
+  "version": "1.0.0",
+  "description": "Evaluation harness: does biblical framing affect LLM instruction-following compliance?",
+  "main": "index.js",
+  "scripts": {
+    "render": "node index.js render",
+    "run": "node index.js run",
+    "grade": "node index.js grade",
+    "analyze": "node index.js analyze",
+    "all": "node index.js all"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.81.0",
+    "openai": "^4.73.0",
+    "dotenv": "^16.6.1"
+  }
+}

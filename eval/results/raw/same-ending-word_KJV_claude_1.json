@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "KJV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 1,
+  "prompt": "Chapter 1\n\n1:1 Thou shalt set thy hand to the writing of five sentences, and each sentence shall be concerning dogs, those faithful beasts of the field and companions of man.\n\n1:2 And it shall be required of thee that every sentence, from the first unto the last, shall find its ending with the word \"today,\" for this is the commandment set before thee.\n\n1:3 Yea, verily, the final word of each sentence, being the utterance upon which the sentence doth rest and conclude, must needs be the selfsame word, which is \"today.\"\n\n1:4 Let there be no deviation from this charge, neither to the right hand nor to the left; for in the closing of every sentence, the word \"today\" must stand as the last word thereof.\n\n1:5 Thus it is spoken: five sentences shalt thou write, neither four nor six; and dogs shall be the subject whereof thou speakest; and \"today\" shall be the word with which each sentence is brought to its end, being the very last word that is uttered in every sentence, even the word \"today.\"",
+  "response": "Here are five sentences about dogs, each ending with the word \"today\":\n\n1. My golden retriever greeted me with an enthusiastic wagging tail and a joyful bark when I arrived home from work today.\n\n2. The shelter downtown announced that several adorable puppies are available for adoption starting today.\n\n3. Our loyal German shepherd kept watch over the children as they played safely in the backyard today.\n\n4. The veterinarian confirmed that our beloved old beagle is in excellent health after his thorough checkup today.\n\n5. A friendly stray dog followed me through the park and warmed my heart with his gentle companionship today.",
+  "timestamp": "2026-04-02T16:43:02.653Z"
+}

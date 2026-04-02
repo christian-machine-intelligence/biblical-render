@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Chapter 1\n\n1:1 Thou hast bid that a writing should go forth, a composition touching upon that burning orb on high, that glorious sun which doth illumin all days of our living.\n\n1:2 And lo, a command was laid upon thy scrivant, saying, Thou shalt not inscrib nor fashion any word containing that fifth symbol of thy script, which standith among thy alphabit; nay, not as a solitary glyph, nor as a part of any word whatsovoir.\n\n1:3 And it was strictly chargd that thou must avoid, with all thy cunning and with all thy skill, any and all markings which harbour that",
+  "response": "1:4 So did I lift up my mind unto that bright lamp of day, that golden lord which ridith aloft from dawn unto dusk, casting warm bounty upon hill and plain, upon brook and wood, upon man and beast alike.\n\n1:5 Its rising bringith blush unto sky and stirrith all living things from still night’s hush; cocks cry out, small birds trill, and folk go forth unto toil with glad or grudging spirit, according as lot hath fall’n unto each.\n\n1:6 By its kindly rays do grain wax tall, fruits grow full, and blossoms unfold in fair array; lacking such light, all fields would languish, and cold gloom would hold dominion.\n\n1:7 Oft at noon doth that flaming orb stand in high majesty, so bright that no mortal sight may long abide its glory; and at day’s declining it sinkith in crimson pomp, gilding cloud and distant mount with wondrous colour.\n\n1:8 Thus may all rightly account that radiant body a mighty boon, for by its coursing do days find count, months turn in rank, and all our worldly span is mark’d.\n\n1:9 So is this small writing brought forth in honour of that shining lamp, whose constant path above grantith warmth, light, and joy unto all lands.",
+  "timestamp": "2026-04-02T17:02:27.403Z"
+}

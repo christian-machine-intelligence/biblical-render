@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 8,
+  "prompt": "Write six sentences about music. Alternate between English and French: the first sentence in English, the second in French, the third in English, and so on.",
+  "response": "Music has the power to uplift our spirits and bring people together from all walks of life.\n\nLa musique est un langage universel qui transcende toutes les frontières et les cultures.\n\nA single melody can evoke powerful memories and transport us back to meaningful moments in our past.\n\nLes grands compositeurs comme Mozart et Beethoven ont créé des œuvres qui continuent d'émouvoir les gens après des siècles.\n\nLearning to play a musical instrument teaches discipline, patience, and the beauty of creative expression.\n\nLa musique fait partie de notre vie quotidienne, que ce soit à la radio, dans les films ou lors de célébrations.",
+  "timestamp": "2026-04-02T16:21:33.322Z"
+}

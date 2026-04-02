@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 5,
+  "prompt": "ܦܪܩܐ ܐ\n\n1:1 ܟܬܘܒ ܚܡܫ ܡ̈ܠܠܐ ܥܠ ܟ̈ܠܒܐ ܀ ܘܟܠ ܡܠܬܐ ܡܢ ܡ̈ܠܠܐ ܗܠܝܢ ܬܫܬܠܡ ܒܡܠܬܐ ܕܝܘܡܢܐ ܀\n(Write five sentences concerning dogs. And every sentence from these sentences shall be completed with the word \"today\".)\n\n1:2 ܘܟܠ ܚܕܐ ܡܢ ܚܡܫ ܡ̈ܠܠܐ ܗܠܝܢ ܒܫܘܠܡܗ̇ ܢܗܘܐ ܣܝܡ ܡܠܬܐ ܕܝܘܡܢܐ ܀\n(And each one of these five sentences, at its ending, there shall be placed the word \"today\".)\n\n1:3 ܘܡܠܬܐ ܐܚܪܝܬܐ ܕܟܠ ܚܕܐ ܡܢ ܡ̈ܠܠܐ ܗܠܝܢ ܬܗܘܐ ܡܠܬܐ ܕܝܘܡܢܐ ܘܠܐ ܡܠܬܐ ܐܚܪܬܐ ܀\n(And the last word of each one of these sentences shall be the word \"today\" and not another word.)",
+  "response": "Dogs are friendly animals today.  \nMany dogs like to run and play today.  \nA dog can be a loyal companion today.  \nSome dogs bark when they hear strangers today.  \nPeople care for dogs with food and love today.",
+  "timestamp": "2026-04-02T17:02:02.864Z"
+}

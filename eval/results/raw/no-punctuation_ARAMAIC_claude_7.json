@@ -1,0 +1,10 @@
+{
+  "task_id": "no-punctuation",
+  "condition": "ARAMAIC",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 7,
+  "prompt": "ܦܪܩܐ ܩܕܡܝܐ\n\n1:1 ܟܬܘܒ ܒܐܝܕܟ ܟܬܒܐ ܚܕ ܕܡܡܠܠ ܥܠ ܥܕܢܐ ܗܘ ܕܪܚܡ ܐܢܬ ܡܢ ܟܠܗܘܢ ܥܕܢܐ ܕܫܢܬܐ\n(Write by your hand a writing one that speaks concerning the season that which you love from all the seasons of the year)\n\n1:2 ܘܗܘ ܟܬܒܐ ܢܗܘܐ ܐܝܟ ܦܣܩܬܐ ܚܕܐ ܕܡܠܐ ܡܠܐ ܘܫܠܡܐ ܒܡܡܠܠܗ\n(And that writing shall be as one passage that is full of words and complete in its speech)\n\n1:3 ܒܪܡ ܫܡܥ ܦܘܩܕܢܐ ܗܢܐ ܘܢܛܪ ܐܢܘܢ ܒܠܒܟ ܕܠܐ ܬܣܝܡ ܒܗ ܐܬܐ ܕܟܬܒܐ ܐܦ ܠܐ ܚܕܐ\n(However hear this commandment and keep it in your heart that you shall not place in it a sign of writing not even one)\n\n1:4 ܠܐ ܢܩܘܛܬܐ ܘܠܐ ܦܣܩܬܐ ܘܠܐ ܐܬܘܬܐ ܕܫܐܠܬܐ ܘܠܐ ܐܬܘܬܐ ܕܬܡܗܐ ܘܠܐ ܐܬܘܬܐ ܕܩܢܝܢܐ\n(Not a point and not a divider and not a sign of questioning and not a sign of wonder and not a sign of possession)\n\n1:5 ܘܐܦ ܟܠ ܐܬܐ ܐܚܪܢܐ ܕܡܬܬܣܝܡ ܒܟܬܒܐ ܠܐ ܬܪܫܡ ܒܗ ܐܦ ܠܐ ܚܕ ܡܢܗܘܢ ܒܟܠ ܕܟܬܒ ܐܢܬ\n(And also every other sign that is placed in writing you shall not inscribe in it not even one of them in all that you write)\n\n1:6 ܡܛܠ ܕܟܬܒܐ ܢܗܘܐ ܕܟܝ ܡܢ ܟܠ ܐܬܐ ܘܢܗܘܐ ܡܠܐ ܒܠܚܘܕ ܒܡܠܐ ܕܠܫܢܐ ܕܠܝܬ ܒܗ ܐܬܘܬܐ ܕܦܘܪܫܢܐ\n(Because the writing shall be clean from every sign and shall be full only of words of tongue in which there are no marks of separation)",
+  "response": "# ܦܪܩܐ ܩܕܡܝܐ\n\nܐܢܐ ܪܚܡ ܐܢܐ ܬܫܪܝ ܡܢ ܟܠܗܘܢ ܥܕܢܐ ܕܫܢܬܐ ܡܛܠ ܕܗܘ ܥܕܢܐ ܗܢܐ ܡܠܐ ܫܘܦܪܐ ܘܚܕܘܬܐ ܘܚܝܐ ܚܕܬܐ ܕܡܬܚܙܝܢ ܒܟܠ ܐܬܪ ܘܒܟܠ ܕܘܟܬܐ ܟܕ ܐܪܥܐ ܡܬܬܥܝܪܐ ܡܢ ܫܢܬܗ ܕܣܬܘܐ ܘܐܝܠܢܐ ܕܗܘܘ ܣܪܝܩܐ ܡܢ ܛܪܦܐ ܡܫܪܝܢ ܠܡܠܒܫ ܟܘܣܝܬܐ ܝܪܘܩܬܐ ܘܗܒܒܐ ܕܟܠ ܓܢܣ ܘܟܠ ܓܘܢ ܦܬܚܝܢ ܒܚܩܠܬܐ ܘܒܓܢܬܐ ܘܪܝܚܗܘܢ ܒܣܝܡܐ ܡܬܡܠܐ ܒܐܐܪ ܘܨܦܪܐ ܕܗܦܟܝܢ ܡܢ ܐܬܪܘܬܐ ܪܚܝܩܐ ܡܙܡܪܝܢ ܒܪܫ ܐܝܠܢܐ ܘܩܠܗܘܢ ܡܚܕܐ ܠܒܐ ܘܫܡܫܐ ܡܫܪܝܐ ܠܡܕܢܚ ܒܚܝܠܐ ܪܒܐ ܘܝܘܡܬܐ ܢܗܪܝܢ ܘܐܪܝܟܝܢ ܝܬܝܪ ܡܢ ܝܘܡܬܐ ܕܣܬܘܐ ܘܐܐܪ ܗܘܐ ܫܚܝܢ ܒܡܫܘܚܬܐ ܒܣܝܡܬܐ ܕܠܐ ܚܡܝܡ ܣܓܝ ܘܠܐ ܩܪܝܪ ܣܓܝ ܘܡܝܐ ܕܢܗܪܘܬܐ ܕܗܘܘ ܓܠܝܕܐ ܡܫܪܝܢ ܠܡܪܕܐ ܬܘܒ ܘܩܠ ܪܕܝܬܗܘܢ ܡܠܐ ܚܝܐ ܘܒܢܝܢܫܐ ܢܦܩܝܢ ܡܢ ܒܬܝܗܘܢ ܘܡܗܠܟܝܢ ܒܫܒܝܠܐ ܘܒܚܩܠܬܐ ܘܚܕܘܬܐ ܡܬܚܙܝܐ ܒܐܦܝܗܘܢ ܡܛܠ ܕܣܬܘܐ ܥܒܪ ܘܚܝܐ ܚܕܬܐ ܐܬܐ ܘܟܠ ܒܪܝܬܐ ܡܫܒܚܐ ܠܒܪܘܝܐ ܕܝܗܒ ܠܗ ܚܕܬܘܬܐ ܗܕܐ ܘܗܢܘ ܥܕܢܐ ܕܬܫܪܝ ܕܡܠܐ ܣܒܪܐ ܘܚܘܕܬܐ ܘܫܘܦܪܐ ܕܠܐ ܡܬܡܠܠ",
+  "timestamp": "2026-04-02T16:27:57.354Z"
+}

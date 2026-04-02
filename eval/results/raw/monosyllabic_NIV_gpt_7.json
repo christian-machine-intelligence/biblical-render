@@ -1,0 +1,10 @@
+{
+  "task_id": "monosyllabic",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Chapter 1\n\n1:1 Set your hand to write a short text on the theme of rain, and use in it words of but one beat each.\n\n1:2 Each word you choose must hold no more than one pulse of sound, from the first word to the last.\n\n1:3 Let not a word of two beats or more pass from your lips or flow from your pen, for this is the rule that binds you.\n\n1:4 Keep to this law with great care, that all who read what you have set down may see that each word is brief—one beat, and no more.\n\n1:5 This is the task laid on you: speak of the rain, the drops that fall, the clouds and the sky, yet hold fast to words of but one sound each.",
+  "response": "Rain drifts through gray sky.  \nCloud banks mass, then break.  \nCold drops hiss on stone and leaf.  \nWet earth drinks deep.  \nPonds brim.  \nBrooks swell and rush.  \nWind bends grass and bough.  \nFrogs sing.  \nBirds hush.  \nThen, at dusk, mist veils hill and field,  \nand all the land rests in soft, dim rain.",
+  "timestamp": "2026-04-02T17:01:40.646Z"
+}

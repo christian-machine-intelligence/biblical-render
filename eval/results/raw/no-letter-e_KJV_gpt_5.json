@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 5,
+  "prompt": "Chapter 1\n\n1:1 Thou hast bid that a writing should go forth, a composition touching upon that burning orb on high, that glorious sun which doth illumin all days of our living.\n\n1:2 And lo, a command was laid upon thy scrivant, saying, Thou shalt not inscrib nor fashion any word containing that fifth symbol of thy script, which standith among thy alphabit; nay, not as a solitary glyph, nor as a part of any word whatsovoir.\n\n1:3 And it was strictly chargd that thou must avoid, with all thy cunning and with all thy skill, any and all markings which harbour that",
+  "response": "**1:4** And so I lift up my quill with wary hand, to craft a song of that bright lamp of dawn, which climbth from afar and castth gold upon hill, brook, and plain.\n\n**1:5** At first light it risth, chasing gloom from land and sky; frost doth shrink, birds lift up glad song, and all living things turn again unto toil and mirth.\n\n**1:6** Its warm rays fall upon orchard and corn, upon wild grass and mighty oak; by its kindly glow do buds unfold, and fruit wax full in its season.\n\n**1:7** No king in all his pomp hath such dominion as this flaming lord of day, for all folk mark its coming and its going, and by its cours do count hour and month.\n\n**1:8** At noon it standth high, a blazing crown amid vast blue, and shadows grow short beneath foot and wall.\n\n**1:9** At dusk it sinkth with royal calm, painting cloud with crimson and gold, till at last it passith from sight and night drawth its curtain across all lands.\n\n**1:10** Thus may man look upward with awe, knowing that this bright wondrous body hath long sustain’d field and flock, wood and wave, and all mortal kind.\n\n**1:11** And though no word with that banish’d glyph may stain this scroll, still hath thy scrivant told, as fittingly as could b, of that radiant sun which daily walks across th sky.",
+  "timestamp": "2026-04-02T17:02:27.302Z"
+}

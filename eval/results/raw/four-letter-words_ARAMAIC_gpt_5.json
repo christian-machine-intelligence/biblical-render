@@ -1,0 +1,10 @@
+{
+  "task_id": "four-letter-words",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 5,
+  "prompt": "ܦܪܩ ܐ\n\n(Chapter 1)\n\n1:1 ܟܬܘܒ ܦܬܓܡܐ ܙܥܘܪܐ ܥܠ ܝܡܐ ܪܒܐ܂ ܘܟܠ ܡܠܬܐ ܕܟܬܒܬ ܬܗܘܐ ܒܐܪܒܥ ܐܬܘܬܐ ܒܠܚܘܕ܂\n(Write a small passage concerning the great sea. And every word that thou writest shall be of four letters only.)\n\n1:2 ܠܐ ܬܣܝܡ ܡܠܬܐ ܕܒܨܝܪܐ ܡܢ ܐܪܒܥ ܐܬܘܬܐ܂ ܘܠܐ ܬܣܝܡ ܡܠܬܐ ܕܝܬܝܪܐ ܡܢ ܐܪܒܥ ܐܬܘܬܐ܀\n(Thou shalt not set down a word that is fewer than four letters. And thou shalt not set down a word that is greater than four letters.)\n\n1:3 ܟܠ ܡܠܐ ܕܐܝܬ ܒܟܬܒܐ ܗܢܐ ܬܗܘܐ ܒܐܪܒܥ ܐܬܘܬܐ ܫܘܝܐܝܬ܂ ܘܠܐ ܡܠܬܐ ܚܕܐ ܬܗܘܐ ܕܙܥܘܪܐ ܐܘ ܕܪܒܐ ܡܢ ܗܕܐ ܡܢܝܢܐ܀\n(Every word that is in this writing shall be of four letters equally. And not one word shall be that is lesser or greater than this number.)\n\n1:4 ܗܟܢܐ ܦܩܕ ܡܪܐ ܕܡܠܬܐ܂ ܕܢܛܪ ܢܡܘܣܐ ܗܢܐ ܒܟܠ ܡܠܬܐ ܘܒܟܠ ܐܬܐ ܕܟܬܒ ܠܗ ܥܠ ܝܡܐ ܪܒܐ܀\n(Thus commanded the lord of the word, that he shall keep this law in every word and in every sign that he writeth concerning the great sea.)",
+  "response": "Wide seas roll unto vast coasts.  \nDeep waves rush upon dark rocks.  \nSalt wind sings over blue deeps.  \nFoam drifts where gulls wheel afar.  \nShips pass amid mist, rain, and dawn.  \nEach tide bears both calm and wrath.  \nNone know what life hides under swells.  \nThat sea stays grand, wild, and stern.",
+  "timestamp": "2026-04-02T16:53:13.684Z"
+}

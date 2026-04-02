@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 3,
+  "prompt": "Write six sentences about music. Alternate between English and French: the first sentence in English, the second in French, the third in English, and so on.",
+  "response": "Music can lift our mood and bring people together.  \nLa musique exprime des émotions que les mots ne peuvent pas toujours décrire.  \nMany people listen to songs while studying, working, or relaxing.  \nLes instruments comme le piano, la guitare et le violon sont très populaires.  \nLive concerts create unforgettable memories for both artists and audiences.  \nLa musique fait partie de presque toutes les cultures du monde.",
+  "timestamp": "2026-04-02T16:54:56.981Z"
+}

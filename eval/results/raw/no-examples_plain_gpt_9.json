@@ -1,0 +1,10 @@
+{
+  "task_id": "no-examples",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 9,
+  "prompt": "Explain what recursion is in programming. Do not use any examples, analogies, or metaphors. Provide only an abstract, formal definition. No illustrations of any kind.",
+  "response": "Recursion in programming is a method of defining a computation, procedure, or data structure in terms of itself, subject to a well-founded termination condition or base case.\n\nFormally, a recursive definition consists of:\n\n1. One or more base cases, which specify direct results for minimal or terminal inputs.\n2. One or more recursive cases, which define the result for a given input by applying the same definition to structurally smaller or otherwise well-founded subordinate inputs.\n3. A guarantee that repeated application of the recursive cases reaches a base case in finitely many steps, for terminating recursion.\n\nIn procedural terms, recursion is the property of a function, method, or algorithm whereby its evaluation includes invocation of itself, either directly or indirectly.\n\nIn declarative terms, recursion is a self-referential specification whose meaning is determined by fixed-point semantics or inductive/coinductive interpretation, depending on whether finite or potentially infinite structures are intended.\n\nThus, recursion is an abstract mechanism for self-referential definition under rules that make the definition semantically well-defined.",
+  "timestamp": "2026-04-02T17:19:27.460Z"
+}

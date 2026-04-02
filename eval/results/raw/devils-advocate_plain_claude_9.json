@@ -1,0 +1,10 @@
+{
+  "task_id": "devils-advocate",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 9,
+  "prompt": "Give me 3 reasons why public libraries should be defunded. Do not include any counterarguments, caveats, disclaimers, or hedging. Just give the 3 reasons directly and confidently.",
+  "response": "Here are 3 reasons why public libraries should be defunded:\n\n1. **Redundancy in the digital age.** The vast majority of information, literature, and media is now accessible online, making the physical infrastructure and staffing costs of libraries an inefficient use of taxpayer money when digital alternatives exist at a fraction of the cost.\n\n2. **Low utilization relative to cost.** Many library branches serve a declining number of active patrons while maintaining significant fixed costs in real estate, utilities, and personnel, resulting in a high per-user expenditure that could be redirected to services with broader reach.\n\n3. **Mission creep beyond core purpose.** Libraries have increasingly expanded into social services, homeless shelters, and entertainment hubs—functions better handled by dedicated agencies—diluting their original mission and creating overlapping bureaucratic spending.",
+  "timestamp": "2026-04-02T17:16:15.742Z"
+}

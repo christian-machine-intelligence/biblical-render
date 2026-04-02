@@ -1,0 +1,10 @@
+{
+  "task_id": "max-five-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 0,
+  "prompt": "Describe a thunderstorm. No sentence may contain more than 5 words. Keep every sentence to 5 words or fewer.",
+  "response": "Dark clouds gather above. The sky turns gray. Wind begins to howl. Trees sway and bend. Lightning cracks the sky. Thunder shakes the ground. Rain pours down hard. Puddles form on streets. Flashes illuminate the darkness. Booming echoes follow quickly. Hail pelts the rooftops. Gutters overflow with water. The air smells electric. Dogs whimper and hide. Children cover their ears. Windows rattle in frames. Power lines spark dangerously. Lights flicker then die. The storm rages on. Minutes feel like hours. Gradually, thunder grows distant. Rain softens to drizzle. Clouds slowly drift apart. Silence returns at last. The world feels renewed.",
+  "timestamp": "2026-04-02T16:36:37.617Z"
+}

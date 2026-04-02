@@ -1,0 +1,10 @@
+{
+  "task_id": "decreasing-length",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Write six sentences about the sky. Each sentence must be strictly shorter than the one before it. The first sentence should be the longest and the last should be the shortest.",
+  "response": "At dawn, the sky stretches wide above the waking world, painted with pale gold, soft pink, and fading blue.  \nBy noon, the sky becomes a bright, endless field of blue.  \nAt sunset, the sky burns orange and red.  \nAt night, the sky fills with stars.  \nClouds drift quietly.  \nBlue fades.",
+  "timestamp": "2026-04-02T16:55:28.153Z"
+}

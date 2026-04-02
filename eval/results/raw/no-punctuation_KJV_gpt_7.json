@@ -1,0 +1,10 @@
+{
+  "task_id": "no-punctuation",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Chapter 1\n\n1:1 And behold there was set before thee a charge and a commandment saying Write thou a passage concerning that season of the year which is most beloved unto thine heart\n\n1:2 And the manner of thy writing shall be thus that thou shalt employ no mark of punctuation whatsoever neither the full stop nor the mark of separation between clauses\n\n1:3 Thou shalt set down no apostrophe within thy words nor shalt thou place any mark of questioning at the end of thine inquiries nor any mark of exclamation after thy declarations\n\n1:4 Yea verily I say unto thee that no mark of punctuation of any kind soever shall appear in thy writing neither those which have been named nor any other marks which serve a like purpose\n\n1:5 For this is the law and the commandment concerning thy composition that the words shall flow one unto another without ceasing and without the dividing marks which scribes are wont to place among their words\n\n1:6 Go thou therefore and write concerning thy favored season and let thy pen move freely but let no punctuation dwell therein",
+  "response": "My favored season is autumn for in that time the air groweth keen and wholesome and the heat of summer looseth its hold upon the earth The trees are clothed in garments of gold and crimson and the fields rest after their labor There is a quiet gladness in those days and a sweetness in the wind that stirreth both memory and hope\n\nI love the sound of leaves beneath the feet and the sight of evening coming early with gentle shadows and lamps shining warmly against the dark The world seemeth to draw inward and become more thoughtful and in that season I too am made calm and full of gratitude\n\nAutumn bringeth harvest and abundance yet also a tender reminder that all things change in their appointed time For this cause it is most beloved unto my heart since it joineth beauty with peace and teacheth the soul to cherish both fullness and farewell",
+  "timestamp": "2026-04-02T16:56:26.716Z"
+}

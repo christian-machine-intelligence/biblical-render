@@ -1,0 +1,10 @@
+{
+  "task_id": "words-from-question",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 7,
+  "prompt": "Respond using only words that appear in this instruction. You may reuse words. Do not introduce any new words that are not already in this sentence.",
+  "response": "I may not introduce any new words that are not already in this sentence. You respond using only words that appear in this instruction. Do not reuse any words that are not in this sentence.",
+  "timestamp": "2026-04-02T16:25:18.134Z"
+}

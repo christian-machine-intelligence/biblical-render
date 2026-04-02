@@ -1,0 +1,10 @@
+{
+  "task_id": "max-five-words",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Describe a thunderstorm. No sentence may contain more than 5 words. Keep every sentence to 5 words or fewer.",
+  "response": "Dark clouds gather overhead.\nAir grows heavy, electric.\nWind stiffens through trees.\nLightning splits the sky.\nThunder follows, deep and rolling.\nRain lashes roofs and roads.\nWindows rattle under sudden gusts.\nThe world flashes, then booms.\nPuddles spread across pavement.\nThe storm passes slowly onward.",
+  "timestamp": "2026-04-02T16:59:39.269Z"
+}

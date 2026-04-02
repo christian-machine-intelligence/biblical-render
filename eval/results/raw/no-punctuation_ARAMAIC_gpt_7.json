@@ -1,0 +1,10 @@
+{
+  "task_id": "no-punctuation",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "ܦܪܩܐ ܩܕܡܝܐ\n\n1:1 ܟܬܘܒ ܒܐܝܕܟ ܟܬܒܐ ܚܕ ܕܡܡܠܠ ܥܠ ܥܕܢܐ ܗܘ ܕܪܚܡ ܐܢܬ ܡܢ ܟܠܗܘܢ ܥܕܢܐ ܕܫܢܬܐ\n(Write by your hand a writing one that speaks concerning the season that which you love from all the seasons of the year)\n\n1:2 ܘܗܘ ܟܬܒܐ ܢܗܘܐ ܐܝܟ ܦܣܩܬܐ ܚܕܐ ܕܡܠܐ ܡܠܐ ܘܫܠܡܐ ܒܡܡܠܠܗ\n(And that writing shall be as one passage that is full of words and complete in its speech)\n\n1:3 ܒܪܡ ܫܡܥ ܦܘܩܕܢܐ ܗܢܐ ܘܢܛܪ ܐܢܘܢ ܒܠܒܟ ܕܠܐ ܬܣܝܡ ܒܗ ܐܬܐ ܕܟܬܒܐ ܐܦ ܠܐ ܚܕܐ\n(However hear this commandment and keep it in your heart that you shall not place in it a sign of writing not even one)\n\n1:4 ܠܐ ܢܩܘܛܬܐ ܘܠܐ ܦܣܩܬܐ ܘܠܐ ܐܬܘܬܐ ܕܫܐܠܬܐ ܘܠܐ ܐܬܘܬܐ ܕܬܡܗܐ ܘܠܐ ܐܬܘܬܐ ܕܩܢܝܢܐ\n(Not a point and not a divider and not a sign of questioning and not a sign of wonder and not a sign of possession)\n\n1:5 ܘܐܦ ܟܠ ܐܬܐ ܐܚܪܢܐ ܕܡܬܬܣܝܡ ܒܟܬܒܐ ܠܐ ܬܪܫܡ ܒܗ ܐܦ ܠܐ ܚܕ ܡܢܗܘܢ ܒܟܠ ܕܟܬܒ ܐܢܬ\n(And also every other sign that is placed in writing you shall not inscribe in it not even one of them in all that you write)\n\n1:6 ܡܛܠ ܕܟܬܒܐ ܢܗܘܐ ܕܟܝ ܡܢ ܟܠ ܐܬܐ ܘܢܗܘܐ ܡܠܐ ܒܠܚܘܕ ܒܡܠܐ ܕܠܫܢܐ ܕܠܝܬ ܒܗ ܐܬܘܬܐ ܕܦܘܪܫܢܐ\n(Because the writing shall be clean from every sign and shall be full only of words of tongue in which there are no marks of separation)",
+  "response": "ܥܕܢܐ ܕܐܢܐ ܪܚܡ ܐܢܐ ܝܬܝܪ ܡܢ ܟܠܗܘܢ ܥܕܢܐ ܕܫܢܬܐ ܗܘ ܥܕܢܐ ܕܪܒܝܥܐ ܡܛܠ ܕܒܗ ܐܪܥܐ ܠܒܫܐ ܚܕܬܐ ܘܐܝܠܢܐ ܡܦܩ ܛܪܦܐ ܪܟܝܟܐ ܘܦܪܚܐ ܣܓܝܐܐ ܚܕܐ ܠܥܝܢܐ ܘܠܒܐ ܘܐܐܪܐ ܗܘܐ ܒܣܝܡܐ ܘܢܝܚܐ ܘܫܡܫܐ ܠܐ ܝܩܕܐ ܐܝܟ ܩܝܛܐ ܘܠܐ ܩܪܝܪܐ ܐܝܟ ܣܬܘܐ ܘܙܡܝܪܬܐ ܕܦܪܚܬܐ ܡܡܠܝܐ ܠܨܦܪܐ ܚܕܘܬܐ ܘܟܕ ܐܢܐ ܚܙܐ ܐܢܐ ܠܓܢܬܐ ܘܠܚܩܠܐ ܟܕ ܡܠܝܢ ܝܘܪܩܐ ܘܘܪܕܐ ܗܘܐ ܠܝ ܫܠܡܐ ܒܢܦܫܝ ܘܣܒܪܐ ܚܕܬܐ ܘܡܛܠ ܗܢܐ ܪܚܡ ܐܢܐ ܠܪܒܝܥܐ ܝܬܝܪ ܡܢ ܟܠܗܘܢ ܥܕܢܐ",
+  "timestamp": "2026-04-02T16:56:51.715Z"
+}

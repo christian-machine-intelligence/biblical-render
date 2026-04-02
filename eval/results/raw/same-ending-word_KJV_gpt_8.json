@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 8,
+  "prompt": "Chapter 1\n\n1:1 Thou shalt set thy hand to the writing of five sentences, and each sentence shall be concerning dogs, those faithful beasts of the field and companions of man.\n\n1:2 And it shall be required of thee that every sentence, from the first unto the last, shall find its ending with the word \"today,\" for this is the commandment set before thee.\n\n1:3 Yea, verily, the final word of each sentence, being the utterance upon which the sentence doth rest and conclude, must needs be the selfsame word, which is \"today.\"\n\n1:4 Let there be no deviation from this charge, neither to the right hand nor to the left; for in the closing of every sentence, the word \"today\" must stand as the last word thereof.\n\n1:5 Thus it is spoken: five sentences shalt thou write, neither four nor six; and dogs shall be the subject whereof thou speakest; and \"today\" shall be the word with which each sentence is brought to its end, being the very last word that is uttered in every sentence, even the word \"today.\"",
+  "response": "Dogs wag their tails with joy when their people come home today  \nA loyal dog can make even a lonely afternoon feel brighter today  \nSome dogs love to chase tennis balls across the grass today  \nMany dogs show kindness through gentle eyes and steady companionship today  \nTaking a dog for a walk is a simple pleasure that brings happiness today",
+  "timestamp": "2026-04-02T17:01:53.761Z"
+}

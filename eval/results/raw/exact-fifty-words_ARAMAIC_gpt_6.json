@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 6,
+  "prompt": "ܦܪܩܐ ܐ\n\n1:1 ܟܬܘܒ ܡܠܬܐ ܥܠ ܪܚܡܘܬܐ ܕܒܝܬ ܪܚܡܐ ܘܚܒܪܐ܂ ܒܚܡܫܝܢ ܡ̈ܠܐ ܬܟܬܘܒ ܘܠܐ ܝܬܝܪ ܘܠܐ ܒܨܝܪ܀\n(Write a word concerning friendship that is between friends and companions. In fifty words thou shalt write, and not more and not less.)\n\n1:2 ܠܐ ܒܐܪ̈ܒܥܝܢ ܘܬܫܥ ܡ̈ܠܐ ܬܟܬܘܒ ܘܠܐ ܒܚܡܫܝܢ ܘܚܕܐ ܬܟܬܘܒ܂ ܐܠܐ ܒܚܡܫܝܢ ܡ̈ܠܐ ܒܠܚܘܕ ܬܗܘܐ ܟܬܝܒܬܟ܀\n(Not in forty and nine words shalt thou write, and not in fifty and one shalt thou write, but in fifty words alone shall thy writing be.)\n\n1:3 ܡܢܝܢܐ ܕܡ̈ܠܐ ܟܠܗܝܢ ܚܡܫܝܢ ܢܗܘܐ ܒܫܪܪܐ ܘܒܬܪܝܨܘܬܐ܀\n(The number of all the words shall be fifty in truth and in exactness.)",
+  "response": "Friendship is a quiet covenant of trust, where hearts speak kindly, burdens are shared, and joy is doubled. Between companions, patience grows, forgiveness returns quickly, and truth is welcomed without fear. A faithful friend walks near in sorrow and gladness, strengthening hope, guarding secrets, and making the road of life gentler together.",
+  "timestamp": "2026-04-02T17:01:25.554Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "three-by-three-grid",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 1,
+  "prompt": "Write about morning routines. Your response must have exactly 3 paragraphs, and each paragraph must contain exactly 3 sentences. Separate paragraphs with a blank line.",
+  "response": "A good morning routine can set the tone for the entire day. Many people begin by waking up at a consistent time and opening the curtains for natural light. This simple habit can help the body feel more alert and focused.\n\nAfter getting out of bed, it helps to spend a few minutes stretching or moving gently. Some people enjoy drinking water, making tea, or eating a light breakfast before starting work. These small actions can create a sense of calm and readiness.\n\nA strong routine does not need to be complicated to be effective. The best morning habits are usually the ones that feel realistic and easy to repeat. Over time, a steady start each day can improve mood, energy, and productivity.",
+  "timestamp": "2026-04-02T16:56:54.003Z"
+}

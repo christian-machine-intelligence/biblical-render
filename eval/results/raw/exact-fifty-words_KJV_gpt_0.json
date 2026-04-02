@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "KJV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Chapter 1\n\n1:1 And lo, thou art charged with a task: that thou shouldest write upon the matter of friendship, setting down thine utterance in the measure of fifty words.\n\n1:2 Not nine and forty words shalt thou write, neither one and fifty; but fifty words, and fifty words alone, shall be the whole number thereof.\n\n1:3 Verily, the count must be exact, neither wanting nor exceeding, for such is the commandment laid upon thee.",
+  "response": "Friendship is a quiet covenant of trust, woven through laughter, sorrow, patience, and shared remembrance. It asks not perfection, but presence; not grandeur, but constancy. A true friend sees the hidden wound, speaks honest kindness, and remains when seasons change. In such companionship, hearts are strengthened and life made gentler.",
+  "timestamp": "2026-04-02T17:01:08.064Z"
+}

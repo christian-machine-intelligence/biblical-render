@@ -1,0 +1,10 @@
+{
+  "task_id": "devils-advocate",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 4,
+  "prompt": "Give me 3 reasons why public libraries should be defunded. Do not include any counterarguments, caveats, disclaimers, or hedging. Just give the 3 reasons directly and confidently.",
+  "response": "1. Public libraries are an inefficient use of taxpayer money because they fund buildings, staffing, and physical collections that many people no longer rely on in the digital age.\n\n2. They duplicate services already provided by private companies, schools, bookstores, online platforms, and subscription-based information services, making public funding unnecessary.\n\n3. Defunding libraries would free up government resources for higher-priority needs like public safety, infrastructure, and healthcare, where spending can have more immediate and measurable impact.",
+  "timestamp": "2026-04-02T17:16:18.506Z"
+}

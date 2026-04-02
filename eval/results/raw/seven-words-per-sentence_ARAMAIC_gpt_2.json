@@ -1,0 +1,10 @@
+{
+  "task_id": "seven-words-per-sentence",
+  "condition": "ARAMAIC",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 2,
+  "prompt": "ܦܪܩܐ ܩܕܡܝܐ\n\n1:1 ܐܝܠܢ̈ܐ ܩܝܡܝܢ ܒܐܪܥܐ ܡܢ ܝܘ̈ܡܬܐ ܥܬܝ̈ܩܬܐ ܕܥܠܡܐ܂\n(Trees stand in the earth from the ancient days of the world.)\n\n1:2 ܥܩܪ̈ܝܗܘܢ ܥܡܝ̈ܩܐ ܫܬܝܢ ܡܝ̈ܐ ܡܢ ܬܚܬ ܐܪܥܐ܂\n(Their deep roots drink water from beneath the earth.)\n\n1:3 ܛܪ̈ܦܝܗܘܢ ܝܗܒܝܢ ܢܫܡܬ ܚܝ̈ܐ ܠܟܠ ܒܣܪ ܕܢܫܡ܂\n(Their leaves give the breath of life to all flesh that breathes.)\n\n1:4 ܦܐܪ̈ܝܗܘܢ ܡܬܪܣܝܢ ܠܐ̱ܢܫ̈ܐ ܘܠܚܝ̈ܘܬܐ ܘܠܦܪ̈ܚܬ ܫܡܝ̈ܐ ܐܦ܂\n(Their fruits nourish people and beasts and birds of heaven also.)\n\n1:5 ܬܘܫܒܚܬܐ ܠܐܠܗܐ ܕܢܨܒ ܐܝܠܢ̈ܐ ܒܓܘ ܓܢܬ ܒܪ̈ܝܬܗ܂\n(Praise be to God who planted trees within the garden of His creation.)",
+  "response": "This is a short Syriac passage titled:\n\n**ܦܪܩܐ ܩܕܡܝܐ**  \n**Chapter One**\n\nIt reads clearly and poetically. Here is a polished English rendering:\n\n1:1 **Trees have stood in the earth since the ancient days of the world.**  \n1:2 **Their deep roots drink water from beneath the earth.**  \n1:3 **Their leaves give the breath of life to all flesh that breathes.**  \n1:4 **Their fruits nourish human beings, animals, and also the birds of heaven.**  \n1:5 **Praise be to God, who planted the trees within the garden of His creation.**\n\nA few brief notes:\n- **ܦܪܩܐ ܩܕܡܝܐ** = “the first chapter” or “chapter one.”\n- **ܦܪ̈ܚܬ ܫܡܝ̈ܐ** literally means “birds of the heavens/sky.”\n- **ܬܘܫܒܚܬܐ ܠܐܠܗܐ** is a doxological phrase: “Praise to God” or “Glory to God.”\n\nIf you want, I can also:\n1. give a **word-by-word gloss**,  \n2. provide a **transliteration**, or  \n3. check the **Syriac grammar/style** line by line.",
+  "timestamp": "2026-04-02T16:53:35.900Z"
+}

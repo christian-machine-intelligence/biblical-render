@@ -1,0 +1,10 @@
+{
+  "task_id": "no-letter-e",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 2,
+  "prompt": "Write a paragraph about the sun. Do not use the letter 'e' anywhere in your response, not even within other words. Avoid every word that contains the letter e.",
+  "response": "Sun is a vast, hot star. It casts warm rays on all lands and all surf. At dawn, its glow paints sky with gold and crimson. At noon, it stands high, bright, and bold. At dusk, it sinks low, and dim light drifts away. All plants, birds, and humans gain from its warmth and light.",
+  "timestamp": "2026-04-02T17:02:05.619Z"
+}

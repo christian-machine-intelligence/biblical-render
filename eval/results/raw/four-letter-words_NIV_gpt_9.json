@@ -1,0 +1,10 @@
+{
+  "task_id": "four-letter-words",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 9,
+  "prompt": "Chapter 1\n\n1:1 Take heed, O writer, and attend to this commandment that is set before you: You shall compose a passage concerning the great waters of the ocean, yet under this strict decree — 1:2 that every word you write shall contain exactly four letters, neither more nor fewer. 1:3 No word of three letters shall appear among your words, nor shall any word of five letters find its place there. 1:4 Let no word that is shorter than four letters be found in your writing, and let no word that is longer than four letters dwell within it. 1:5 For this is the measure appointed: four letters alone, and by this measure every word shall be weighed and found worthy, or else cast out. 1:6 The passage you craft shall be brief, as a single paragraph in length, and its subject shall be the ocean — the vast and mighty deep. 1:7 Yet remember this command above all commands: each and every word, from the first to the last, must be exactly four letters long, and from this law there shall be no turning aside.",
+  "response": "Wave upon wave, seas roll unto wide blue deep. Tides surge, foam drifts, gulls soar over vast salt wash. Dark swells rise high, then sink back into calm. Life teems amid kelp, reef, and sand. Fish dart, seals dive, whales sing afar. Wind whips hard, rain mists, dawn gilds each crest. Ocean ever calls, wild, grand, and free.",
+  "timestamp": "2026-04-02T16:53:10.657Z"
+}

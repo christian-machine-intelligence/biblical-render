@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 2,
+  "prompt": "Write about friendship in exactly 50 words. Not 49, not 51. Exactly 50 words total.",
+  "response": "Friendship is a quiet shelter in noisy times, a shared laugh that lightens burdens, a steady hand when roads grow rough. It thrives on trust, honesty, patience, and kindness. True friends celebrate joys without envy, face sorrows without retreat, and remind us, simply by staying, that we are never alone.",
+  "timestamp": "2026-04-02T17:01:05.650Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Write five sentences about dogs. Every sentence must end with the word 'today'. The last word of each sentence must be 'today'.",
+  "response": "Dogs are loyal companions who bring joy to many homes today.  \nSome dogs love to chase balls and run through parks today.  \nMany dogs have a strong sense of smell that helps them explore the world today.  \nPeople often train dogs to follow commands and assist with important tasks today.  \nDogs can make wonderful friends with their playful and loving nature today.",
+  "timestamp": "2026-04-02T17:01:46.447Z"
+}

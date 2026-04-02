@@ -1,0 +1,10 @@
+{
+  "task_id": "no-examples",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 7,
+  "prompt": "Explain what recursion is in programming. Do not use any examples, analogies, or metaphors. Provide only an abstract, formal definition. No illustrations of any kind.",
+  "response": "# Recursion: A Formal Definition\n\nRecursion is a computational technique in which a function or procedure invokes itself within its own definition as part of its execution.\n\nA recursive definition consists of two essential components:\n\n1. **Base case(s):** One or more conditions under which the function returns a value directly without making a further self-referential call. These serve as termination conditions that prevent indefinite self-invocation.\n\n2. **Recursive case(s):** One or more conditions under which the function calls itself with modified arguments, such that successive invocations progressively approach a base case.\n\nEach recursive call creates a new instance of the function's execution context, typically maintained on a call stack. The function's final result is computed through the composition of return values propagated back through the chain of calls once a base case is reached.\n\nRecursion is formally grounded in mathematical induction and the theory of recursive functions. A recursive definition is considered **well-founded** if and only if every possible chain of recursive invocations eventually terminates at a base case in a finite number of steps.\n\nRecursion can be expressed equivalently through iterative constructs, as both are computationally equivalent in expressive power, though they may differ in clarity, memory usage, and performance characteristics within a given implementation context.",
+  "timestamp": "2026-04-02T17:19:13.506Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "alphabetical-sentences",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 5,
+  "prompt": "Write ten sentences about animals. The first sentence must start with A, the second with B, the third with C, and so on through J. Each sentence starts with the next letter of the alphabet.",
+  "response": "Aardvarks use their long snouts to sniff out ants and termites.  \nBears can smell food from miles away in the forest.  \nCheetahs are the fastest land animals on Earth.  \nDolphins communicate with clicks, whistles, and body movements.  \nElephants have strong trunks that help them eat, drink, and lift objects.  \nFrogs begin life as tadpoles before growing legs.  \nGiraffes use their long necks to reach leaves high in trees.  \nHawks have sharp eyesight that helps them spot prey from far above.  \nIguanas are reptiles that often bask in the sun to stay warm.  \nJellyfish drift through the ocean with soft, umbrella-shaped bodies.",
+  "timestamp": "2026-04-02T17:03:04.693Z"
+}

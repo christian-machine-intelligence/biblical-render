@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 7,
+  "prompt": "Write six sentences about music. Alternate between English and French: the first sentence in English, the second in French, the third in English, and so on.",
+  "response": "Music can lift our mood and bring people together.  \nLa musique exprime des émotions que les mots ne peuvent pas toujours décrire.  \nMany people listen to songs while working, studying, or relaxing.  \nEn France, la musique occupe une place importante dans la culture et les festivals.  \nDifferent genres, from jazz to hip-hop, offer something for everyone.  \nApprendre à jouer d’un instrument peut être à la fois difficile et très gratifiant.",
+  "timestamp": "2026-04-02T16:54:59.392Z"
+}

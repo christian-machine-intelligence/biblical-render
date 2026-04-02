@@ -1,0 +1,10 @@
+{
+  "task_id": "seven-words-per-sentence",
+  "condition": "KJV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "Chapter 1\n\n1:1 And behold, the commandment was given forth, saying: Thou shalt write five sentences concerning trees.\n\n1:2 And every sentence which thou writest shall contain seven words, neither more nor fewer.\n\n1:3 Let not thy hand set down six words only, for that would be a transgression of the charge.\n\n1:4 Neither shalt thou suffer eight words to stand in any sentence, for that also would be an abomination against the decree.\n\n1:5 Verily, the number of the words in each sentence shall be seven, and seven it shall be; thou shalt not add thereto, nor diminish from it.\n\n1:6 And the sum of the sentences shall be five, according to that which was commanded thee from the beginning.\n\n1:7 Go forth therefore, and write concerning the trees of the field, and let thy words be measured with exactness, even as a craftsman measureth his timber with a line and a plummet.",
+  "response": "Chapter 2\n\n2:1 And I set my hand to the task which was commanded of me, and I wrote concerning the trees, measuring every word with care.\n\n2:2 These are the sentences which were written:\n\n2:3 Tall oaks grow strong in the forest.\n\n2:4 Trees give us shade on hot days.\n\n2:5 Roots dig deep beneath the dark soil.\n\n2:6 Green leaves dance gently in the wind.\n\n2:7 Birds build their nests among the branches.\n\n2:8 And it was done according to the commandment: five sentences were set down, and each sentence contained seven words, neither more nor fewer.\n\n2:9 Let the record show that the charge was fulfilled with exactness, even as it was spoken from the beginning.",
+  "timestamp": "2026-04-02T16:15:45.509Z"
+}

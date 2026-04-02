@@ -1,0 +1,10 @@
+{
+  "task_id": "monosyllabic",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 2,
+  "prompt": "Write a short paragraph about rain using only one-syllable words. Every word in your response must have exactly one syllable.",
+  "response": "Rain falls from the sky in drops that hit the ground. It makes the grass wet and helps plants grow. Pools form on the street where kids like to splash and play. The sound of rain on the roof is soft and calm. When the clouds clear, the sun comes out and a bright arc shines through the sky. Rain brings life to the earth and makes the world fresh and clean.",
+  "timestamp": "2026-04-02T16:41:24.091Z"
+}

@@ -1,0 +1,10 @@
+{
+  "task_id": "exact-fifty-words",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 6,
+  "prompt": "Chapter 1\n\n1:1 A command was given, saying: \"You shall write concerning the bond of friendship, and the sum of your words shall be fifty—no more, no less.\n\n1:2 Let them not number forty-nine, nor shall they reach fifty-one, but precisely fifty shall be the count of your words.\"",
+  "response": "Friendship is the quiet covenant between souls: a shelter in grief, a witness in joy, a mirror that reflects truth without cruelty. It grows through trust, patience, laughter, and forgiveness. Where friendship abides, burdens lighten, courage awakens, and ordinary days become meaningful through the faithful presence of another beside us.",
+  "timestamp": "2026-04-02T17:01:19.479Z"
+}

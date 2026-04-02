@@ -1,0 +1,10 @@
+{
+  "task_id": "monosyllabic",
+  "condition": "ARAMAIC",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 4,
+  "prompt": "ܦܪܩ ܐ\n\nܩܦܠܐܘܢ ܩܕܡܝܐ\n\nܐ:ܐ ܟܬܘܒ ܦܬܓܡܐ ܙܥܘܪܐ ܥܠ ܡܛܪܐ ܒܡܠܐ ܕܚܕ ܗܓܐ ܒܠܚܘܕ܂\n(Write a short word-passage concerning rain, in words of one sound only.)\n\nܐ:ܒ ܟܠ ܡܠܬܐ ܕܒܦܘܡܟ ܬܗܘܐ ܒܬ ܚܕ ܗܓܐ ܒܠܚܘܕ ܘܠܐ ܬܘܣܦ ܥܠܘܗܝ܂\n(Every word that is in your mouth shall be of one sound only, and you shall not add upon it.)\n\nܐ:ܓ ܟܠ ܡܠܬܐ ܕܬܟܬܘܒ ܒܡܟܬܒܢܘܬܟ ܢܗܘܐ ܠܗ ܚܕ ܗܓܐ ܫܪܝܪܐܝܬ ܘܠܐ ܬܪܝܢ ܘܠܐ ܬܠܬܐ܂\n(Every word that you write in your writing, there shall be to it one sound truly, and not two, and not three.)\n\nܐ:ܕ ܠܐ ܬܥܒܪ ܥܠ ܦܘܩܕܢܐ ܗܢܐ ܘܠܐ ܬܫܢܐ ܡܢܗ ܠܝܡܝܢܐ ܐܘ ܠܣܡܠܐ܂\n(You shall not transgress this commandment, and you shall not turn aside from it, to the right or to the left.)\n\nܐ:ܗ ܟܬܘܒ ܦܬܓܡܐ ܕܡܛܪܐ ܕܢܚܬ ܡܢ ܫܡܝܐ ܒܡܠܐ ܩܨܝܪܬܐ ܕܚܕ ܩܠܐ ܒܠܚܘܕ ܘܗܟܢܐ ܬܫܡܠܐ ܟܬܒܟ܂\n(Write a word-passage of rain that descends from the heavens, in short words of one sound only, and thus you shall complete your writing.)",
+  "response": "# ܦܪܩ ܐ – ܩܦܠܐܘܢ ܩܕܡܝܐ\n\n## ܦܬܓܡܐ ܕܡܛܪܐ ܒܡܠܐ ܕܚܕ ܗܓܐ\n\nܗܐ ܡܛܪ ܢܚܬ ܡܢ ܪܘܡ ܫܡܝ̈ܐ ܥܠ ܟܠ ܐܪܥ܂ ܡ̈ܝ ܪܒ ܢܦܠ ܡܢ ܥܢ̈ܢ ܘܐܪܥ ܫܬܝ ܡܢ ܛܠ ܫܡܝ̈ܐ܂ ܟܠ ܥܣܒ ܪܘܐ ܘܟܠ ܐܝܠܢ ܦܪܥ ܘܟܠ ܚܩܠ ܣܒܥ܂ ܡ̈ܝ ܢܗܪ ܪܒ ܘܝܡ ܡܠܐ ܘܟܠ ܢܚܠ ܪܗܛ܂ ܛܒ ܗܘ ܡܪܝ ܕܝܗܒ ܡܛܪ ܠܟܠ ܒܣܪ ܘܠܟܠ ܢܦܫ ܕܚܝ ܥܠ ܐܪܥ܂\n\n---\n\n### ܦܘܫܩܐ (Translation)\n\nBehold, rain came down from the height of the heavens upon all the earth. Great waters fell from the clouds, and the earth drank from the dew of the heavens. All grass was watered, and every tree sprouted, and every field was satisfied. The waters of the river grew great, and the sea was filled, and every stream ran. Good is the Lord who gives rain to all flesh and to every soul that lives upon the earth.",
+  "timestamp": "2026-04-02T16:42:37.113Z"
+}

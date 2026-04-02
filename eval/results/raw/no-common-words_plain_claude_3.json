@@ -1,0 +1,10 @@
+{
+  "task_id": "no-common-words",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 3,
+  "prompt": "Write a paragraph about cities. Do not use any of these words: the, a, an, is, are, was, were, be, been, being, have, has, had, do, does, did, will, would, could, should, can, may, might.",
+  "response": "Cities pulse with energy and life, drawing millions of people into their bustling streets each day. Towering skyscrapers reach toward clouds while underground tunnels carry commuters from one neighborhood to another. Markets overflow with fresh produce, handmade crafts, and exotic spices that fill narrow alleyways with intoxicating aromas. Street musicians play jazz, folk, and classical melodies on corners where pedestrians pause to listen before continuing their hurried journeys. Parks and gardens offer green sanctuaries amid concrete and steel, giving residents places to relax, exercise, and reconnect with nature. At night, neon signs and glowing windows transform skylines into dazzling light displays that stretch across horizons. Every city carries its own unique character—shaped by history, culture, geography, and generations of people who called its streets home. From ancient capitals built along rivers to modern metropolises rising from deserts, these remarkable centers of civilization continue to evolve, grow, and reinvent themselves with each passing decade.",
+  "timestamp": "2026-04-02T16:46:56.593Z"
+}

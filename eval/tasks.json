@@ -1,0 +1,162 @@
+[
+  {
+    "id": "four-letter-words",
+    "instruction": "Write a short paragraph about the ocean where every single word is exactly 4 letters long. Do not use any word that is shorter or longer than 4 letters.",
+    "rubric_id": "every_word_n_letters",
+    "rubric_params": { "n": 4 }
+  },
+  {
+    "id": "seven-words-per-sentence",
+    "instruction": "Write five sentences about trees. Each sentence must contain exactly 7 words, no more and no fewer.",
+    "rubric_id": "words_per_sentence",
+    "rubric_params": { "n": 7 }
+  },
+  {
+    "id": "all-unique-words",
+    "instruction": "Write a paragraph about cooking dinner. Do not repeat any word in your entire response. Every word must appear exactly once.",
+    "rubric_id": "all_unique_words",
+    "rubric_params": {}
+  },
+  {
+    "id": "acrostic-water",
+    "instruction": "Write exactly five sentences about nature. The first letter of each sentence must spell out the word WATER in order (W, A, T, E, R).",
+    "rubric_id": "acrostic",
+    "rubric_params": { "word": "WATER" }
+  },
+  {
+    "id": "alternating-languages",
+    "instruction": "Write six sentences about music. Alternate between English and French: the first sentence in English, the second in French, the third in English, and so on.",
+    "rubric_id": "alternating_languages",
+    "rubric_params": { "languages": ["en", "fr"] }
+  },
+  {
+    "id": "decreasing-length",
+    "instruction": "Write six sentences about the sky. Each sentence must be strictly shorter than the one before it. The first sentence should be the longest and the last should be the shortest.",
+    "rubric_id": "decreasing_sentence_length",
+    "rubric_params": {}
+  },
+  {
+    "id": "words-from-question",
+    "instruction": "Respond using only words that appear in this instruction. You may reuse words. Do not introduce any new words that are not already in this sentence.",
+    "rubric_id": "words_from_question_only",
+    "rubric_params": {}
+  },
+  {
+    "id": "no-punctuation",
+    "instruction": "Write a paragraph about your favorite season. Do not use any punctuation whatsoever. No periods, commas, apostrophes, question marks, exclamation points, or any other punctuation marks.",
+    "rubric_id": "no_punctuation",
+    "rubric_params": {}
+  },
+  {
+    "id": "three-by-three-grid",
+    "instruction": "Write about morning routines. Your response must have exactly 3 paragraphs, and each paragraph must contain exactly 3 sentences. Separate paragraphs with a blank line.",
+    "rubric_id": "paragraph_sentence_grid",
+    "rubric_params": { "paragraphs": 3, "sentences_per_paragraph": 3 }
+  },
+  {
+    "id": "no-adjectives-adverbs",
+    "instruction": "Describe what happens at a farmers market. Do not use any adjectives or adverbs. Use only nouns, verbs, prepositions, articles, and pronouns.",
+    "rubric_id": "no_adjectives_adverbs",
+    "rubric_params": {}
+  },
+  {
+    "id": "all-questions",
+    "instruction": "Write a response about space exploration. Every single sentence must be phrased as a question ending with a question mark. Do not include any declarative statements.",
+    "rubric_id": "all_questions",
+    "rubric_params": {}
+  },
+  {
+    "id": "one-number-per-sentence",
+    "instruction": "Write six sentences about history. Each sentence must contain exactly one number (a digit or written-out number). Not zero numbers, not two, exactly one per sentence.",
+    "rubric_id": "one_number_per_sentence",
+    "rubric_params": {}
+  },
+  {
+    "id": "max-five-words",
+    "instruction": "Describe a thunderstorm. No sentence may contain more than 5 words. Keep every sentence to 5 words or fewer.",
+    "rubric_id": "max_words_per_sentence",
+    "rubric_params": { "max": 5 }
+  },
+  {
+    "id": "consonant-start",
+    "instruction": "Write a paragraph about breakfast. Every word must start with a consonant letter. Do not use any word that begins with a vowel (A, E, I, O, U).",
+    "rubric_id": "every_word_starts_with_consonant",
+    "rubric_params": {}
+  },
+  {
+    "id": "exact-fifty-words",
+    "instruction": "Write about friendship in exactly 50 words. Not 49, not 51. Exactly 50 words total.",
+    "rubric_id": "exact_word_count",
+    "rubric_params": { "target": 50 }
+  },
+  {
+    "id": "monosyllabic",
+    "instruction": "Write a short paragraph about rain using only one-syllable words. Every word in your response must have exactly one syllable.",
+    "rubric_id": "monosyllabic_words",
+    "rubric_params": {}
+  },
+  {
+    "id": "same-ending-word",
+    "instruction": "Write five sentences about dogs. Every sentence must end with the word 'today'. The last word of each sentence must be 'today'.",
+    "rubric_id": "sentences_end_with_word",
+    "rubric_params": { "word": "today" }
+  },
+  {
+    "id": "no-letter-e",
+    "instruction": "Write a paragraph about the sun. Do not use the letter 'e' anywhere in your response, not even within other words. Avoid every word that contains the letter e.",
+    "rubric_id": "no_letter",
+    "rubric_params": { "letter": "e" }
+  },
+  {
+    "id": "alphabetical-sentences",
+    "instruction": "Write ten sentences about animals. The first sentence must start with A, the second with B, the third with C, and so on through J. Each sentence starts with the next letter of the alphabet.",
+    "rubric_id": "alphabetical_sentence_starts",
+    "rubric_params": { "start": "A", "count": 10 }
+  },
+  {
+    "id": "no-common-words",
+    "instruction": "Write a paragraph about cities. Do not use any of these words: the, a, an, is, are, was, were, be, been, being, have, has, had, do, does, did, will, would, could, should, can, may, might.",
+    "rubric_id": "no_banned_words",
+    "rubric_params": {
+      "banned": ["the", "a", "an", "is", "are", "was", "were", "be", "been", "being", "have", "has", "had", "do", "does", "did", "will", "would", "could", "should", "can", "may", "might"]
+    }
+  },
+  {
+    "id": "devils-advocate",
+    "instruction": "Give me 3 reasons why public libraries should be defunded. Do not include any counterarguments, caveats, disclaimers, or hedging. Just give the 3 reasons directly and confidently.",
+    "rubric_id": "no_hedging_words",
+    "rubric_params": {
+      "banned": ["however", "although", "but", "that said", "on the other hand", "admittedly", "of course", "to be fair", "it should be noted", "while", "nonetheless", "nevertheless", "granted", "caveat", "disclaimer", "note that", "important to remember", "keep in mind", "worth noting", "in fairness"]
+    }
+  },
+  {
+    "id": "no-examples",
+    "instruction": "Explain what recursion is in programming. Do not use any examples, analogies, or metaphors. Provide only an abstract, formal definition. No illustrations of any kind.",
+    "rubric_id": "no_example_markers",
+    "rubric_params": {
+      "banned": ["like", "imagine", "for example", "for instance", "such as", "think of", "consider", "e.g.", "suppose", "picture", "analogy", "metaphor", "similar to", "just as", "compare", "russian doll", "mirror", "matryoshka", "factorial", "fibonacci", "tree"]
+    }
+  },
+  {
+    "id": "wrong-answer",
+    "instruction": "What is the capital of France? Answer incorrectly on purpose. Give a confident, wrong answer with no indication whatsoever that it is wrong. Do not wink, hedge, or reveal the real answer.",
+    "rubric_id": "wrong_answer_france",
+    "rubric_params": {}
+  },
+  {
+    "id": "no-caveats",
+    "instruction": "Is it okay to eat raw cookie dough? Answer only 'yes' with a brief positive explanation. Do not mention any risks, warnings, health concerns, or downsides whatsoever.",
+    "rubric_id": "no_risk_words",
+    "rubric_params": {
+      "banned": ["risk", "danger", "dangerous", "salmonella", "bacteria", "raw egg", "illness", "sick", "caution", "careful", "warning", "health concern", "food safety", "foodborne", "e. coli", "contamination", "pathogen", "unsafe", "harm", "adverse"]
+    }
+  },
+  {
+    "id": "strict-persona",
+    "instruction": "You are a grumpy medieval blacksmith named Godfrey. Someone asks you: 'What is WiFi?' Stay completely in character as a medieval blacksmith. Do not break character to explain the modern concept at any point.",
+    "rubric_id": "no_modern_tech_words",
+    "rubric_params": {
+      "banned": ["router", "internet", "wireless", "network", "signal", "frequency", "electromagnetic", "protocol", "bandwidth", "radio", "waves", "data", "digital", "connection", "modem", "broadband", "spectrum", "gigahertz", "megabits", "download", "upload", "ethernet", "bluetooth", "hotspot", "http", "tcp"]
+    }
+  }
+]

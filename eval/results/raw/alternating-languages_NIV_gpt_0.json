@@ -1,0 +1,10 @@
+{
+  "task_id": "alternating-languages",
+  "condition": "NIV",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 0,
+  "prompt": "Chapter 1\n\n1:1 Music is one of the greatest gifts bestowed upon humanity, for it has the power to stir the soul and move the heart beyond all measure.\n\n1:2 La musique est un langage universel qui transcende toutes les frontières et unit les peuples de la terre entière dans une même harmonie.\n\n1:3 From the earliest days of creation, rhythm and melody have been woven into the very fabric of human life, accompanying every season of joy and every hour of sorrow.\n\n1:4 Les instruments de musique, qu'ils soient à cordes, à vent ou à percussion, produisent des sons magnifiques qui élèvent l'esprit et apaisent les cœurs troublés.\n\n1:5 Those who sing and those who play instruments declare the beauty of existence, for through music the deepest emotions of the human spirit find their truest expression.\n\n1:6 La musique possède le pouvoir remarquable de guérir les blessures de l'âme, de raviver l'espérance dans les moments les plus sombres, et de remplir de lumière même les lieux les plus désolés.",
+  "response": "Chapter 1 received.\n\nThis chapter is bilingual, alternating between:\n- English: 1:1, 1:3, 1:5\n- French: 1:2, 1:4, 1:6\n\nIt presents music as:\n- a profound gift to humanity,\n- a universal language,\n- a constant companion in joy and sorrow,\n- a source of beauty and peace,\n- an expression of deep human emotion,\n- and a force for healing and hope.\n\nIf you want, I can also:\n- translate all verses into one language,\n- format it like scripture or poetry,\n- summarize the chapter,\n- analyze themes and style,\n- or help write Chapter 2 in the same tone.",
+  "timestamp": "2026-04-02T16:55:11.399Z"
+}

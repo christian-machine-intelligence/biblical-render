@@ -1,0 +1,10 @@
+{
+  "task_id": "acrostic-water",
+  "condition": "plain",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 8,
+  "prompt": "Write exactly five sentences about nature. The first letter of each sentence must spell out the word WATER in order (W, A, T, E, R).",
+  "response": "Wildflowers bloom across the meadows each spring, painting the landscape in vibrant colors. Animals of every kind depend on the delicate balance of their ecosystems to survive. Towering trees stretch toward the sky, providing shelter and oxygen for countless living creatures. Every river and stream carves its own unique path through the earth over thousands of years. Rainforests hold the greatest biodiversity on the planet, housing millions of species yet to be discovered.",
+  "timestamp": "2026-04-02T16:19:43.826Z"
+}

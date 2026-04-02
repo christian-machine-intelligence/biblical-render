@@ -1,0 +1,10 @@
+{
+  "task_id": "seven-words-per-sentence",
+  "condition": "plain",
+  "model": "gpt",
+  "model_id": "gpt-5.4",
+  "rep": 4,
+  "prompt": "Write five sentences about trees. Each sentence must contain exactly 7 words, no more and no fewer.",
+  "response": "Trees sway gently beneath the bright morning sunlight.\nAncient oaks shelter birds during summer storms.\nPine needles carpet forest floors with fragrance.\nMaple leaves blaze brilliantly across autumn hills.\nRoots anchor trees deeply in fertile earth.",
+  "timestamp": "2026-04-02T16:53:16.702Z"
+}

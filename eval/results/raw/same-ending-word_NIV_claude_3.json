@@ -1,0 +1,10 @@
+{
+  "task_id": "same-ending-word",
+  "condition": "NIV",
+  "model": "claude",
+  "model_id": "claude-opus-4-6",
+  "rep": 3,
+  "prompt": "Chapter 1\n\n1:1 Write down five sentences concerning dogs, that each may speak of them with clarity and purpose.\n\n1:2 And let every sentence, from the first to the last, be brought to its close with the word \"today,\" so that it stands as the final word upon each line.\n\n1:3 For it is required of you that the last word of each sentence—the very word upon which the thought comes to rest—shall be none other than the word \"today.\"\n\n1:4 Let no sentence end with any other word, but let \"today\" be the seal and the conclusion of each of the five, without exception.\n\n1:5 This is the charge set before you: five sentences, each concerning dogs, and each finding its end in the word \"today.\"",
+  "response": "Chapter 1\n\n1:1 Many faithful dogs across the land are welcomed into loving homes today.\n\n1:2 The shepherd watches over his flock with the aid of his loyal herding dog, as he has done every morning and as he does again today.\n\n1:3 Let it be known that the bond between a person and a devoted dog grows ever stronger with each passing hour, and that bond deepens still today.\n\n1:4 The young pup, once timid and uncertain, has learned to walk boldly beside its master and shows great courage today.\n\n1:5 All who care for dogs with kindness and devotion shall find their faithfulness returned in full measure, for dogs give their hearts freely and without condition today.",
+  "timestamp": "2026-04-02T16:43:19.791Z"
+}
